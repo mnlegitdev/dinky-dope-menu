@@ -1210,5 +1210,59 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "4d04fa4b5f99": {
+    "lineage": "Cotton Candy x Gravenstein OG (Northpark / regional Pacific Northwest genetics)",
+    "therapeutic": "Stress relief, mild anxiety, depression, fatigue, mild pain, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible drowsiness as effects progress",
+    "aroma": "A lush bouquet of ripe berries and sugary cotton candy greets the nose first, followed by a bright citrus lift of lemon zest and a grounding earthy, slightly spiced undertone from the OG heritage. The overall effect is sweet and inviting with just enough funk to remind you of its indica roots.",
+    "misc": "Fog Dog is a regional hybrid bred from the fruity Cotton Candy strain crossed with the resinous, earth-forward Gravenstein OG, producing a balanced indica-leaning experience that leans creative before settling into relaxation — making it a solid early evening choice. At 17.2% THC it sits in a moderate range, accessible for intermediate consumers while still delivering noticeable effects; newer users should start slow with the 1g pre-rolls. The myrcene-dominant terpene profile reinforces the body-relaxing qualities while limonene keeps the mood uplifted and caryophyllene adds a subtle spice and potential anti-inflammatory benefit.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "3a72663143f0": {
+    "lineage": "Gummi Bears is a hybrid cross commonly attributed to Zkittlez x Grape Ape genetics, though some phenotypes trace back to Blueberry x unknown indica-dominant hybrids; exact breeder attribution varies by regional producer, with Northpark's cut likely sourced from Pacific Northwest breeding stock",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, creative blocks, mild pain management, fatigue, depression",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, occasional headache, drowsiness with overconsumption; low THC at 14.1% makes this relatively beginner-friendly but dose sensitivity still applies",
+    "aroma": "Sweet, candy-forward nose bursting with ripe berry and tropical fruit notes, underpinned by a bright citrus zest from the limonene and a faintly earthy, herbal base courtesy of myrcene. On the exhale, the profile softens into a sugary, almost gummy-candy sweetness that lives up to its namesake.",
+    "misc": "At 14.1% THC, Gummi Bears is a moderate-potency hybrid well-suited for daytime or early evening use, making it an excellent choice for social settings or creative activities without overwhelming sedation. The terpene profile — led by myrcene for body ease, limonene for mood lift, and caryophyllene for mild stress relief — complements the reported creative and uplifting effects. This 3-pack of 1-gram pre-rolls from Northpark offers a consistent, approachable entry point for newer consumers while still delivering satisfying effects for experienced users seeking a lighter, flavorful session.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 6,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "67b16277d886": {
+    "lineage": "Fro'Do x Alaskan Yeti, then backcrossed with Lil Miss Sunshine (Fro'Do x Alaskan Yeti) x LilMissHS — Fro'Do is believed to descend from Frodo Kush lineage, Alaskan Yeti carries northern landrace and OG heritage, and Lil Miss Sunshine (LilMissHS) is a sativa-leaning hybrid known for uplifting, bright effects; bred and produced under the Northpark brand",
+    "therapeutic": "Stress relief, mood elevation, mild anxiety reduction, fatigue, low-grade depression, creative blocks, mild pain management",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts at higher doses, light dizziness for low-tolerance users; not ideal for those sensitive to sativa-driven cerebral stimulation",
+    "aroma": "A rich, layered bouquet opens with bright tropical citrus and ripe fruit, quickly grounded by deep earthy pine and a warm herbal spice that lingers on the exhale — reminiscent of a forest floor dusted with fresh zest and exotic woods.",
+    "misc": "Produced by Northpark as a budget-friendly squeeze pre-roll 3-pack, this sativa-dominant hybrid sits at a moderate 17.1% THC making it approachable for intermediate consumers while still delivering a functional, euphoric lift. The myrcene and limonene terpene pairing drives the earthy-tropical flavor profile while supporting mood-boosting and relaxing body effects without heavy sedation. Best suited for daytime or early evening use — ideal for social settings, creative work, or light outdoor activity.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 3,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
   }
 }
