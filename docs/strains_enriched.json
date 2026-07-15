@@ -13,7 +13,8 @@
       "get_social": 6,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "ccc76bdd4871": {
@@ -30,7 +31,8 @@
       "get_social": 4,
       "pain_body": 2,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "f618b483f28e": {
@@ -47,7 +49,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 5
     }
   },
   "8d4cbe49d62b": {
@@ -64,7 +67,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "88a493cd2ad4": {
@@ -81,7 +85,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "2cf10cd71313": {
@@ -98,7 +103,8 @@
       "get_social": 2,
       "pain_body": 8,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "22b48b51f118": {
@@ -115,7 +121,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "add95b58d1c0": {
@@ -132,7 +139,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "fb0d907156d0": {
@@ -149,7 +157,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 8
     }
   },
   "c1b55c21c9dc": {
@@ -166,7 +175,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "2b77aa8310d0": {
@@ -183,7 +193,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 7
     }
   },
   "193772cfa64f": {
@@ -200,7 +211,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 6
     }
   },
   "9eda5745c937": {
@@ -217,7 +229,8 @@
       "get_social": 7,
       "pain_body": 3,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 3
     }
   },
   "4a12b0dc3c9d": {
@@ -234,7 +247,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "5cebba7370b4": {
@@ -251,7 +265,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "2a13118bd5d3": {
@@ -268,7 +283,8 @@
       "get_social": 4,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "af349d11c7b7": {
@@ -285,7 +301,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "8eb2a399daef": {
@@ -302,7 +319,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "664c6ebcbdf2": {
@@ -319,7 +337,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 6
     }
   },
   "a8ff785a0438": {
@@ -336,7 +355,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "834520222a18": {
@@ -353,7 +373,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "1d09414be829": {
@@ -370,7 +391,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "bc9347d00263": {
@@ -387,7 +409,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 5
     }
   },
   "8ae18707abb9": {
@@ -404,7 +427,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "553da6953ec8": {
@@ -421,7 +445,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "25f9b4790676": {
@@ -438,7 +463,8 @@
       "get_social": 5,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "981c2f25b0a9": {
@@ -455,7 +481,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "26ca85b90306": {
@@ -472,7 +499,8 @@
       "get_social": 4,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "568b36a18f9f": {
@@ -489,7 +517,8 @@
       "get_social": 7,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 2
     }
   },
   "ef274aea4517": {
@@ -506,7 +535,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "0a8fd091a6ec": {
@@ -523,7 +553,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "5d08dec97886": {
@@ -540,7 +571,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "ff21ae28e322": {
@@ -557,7 +589,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "c1221a8e9eca": {
@@ -566,7 +599,9 @@
     "negative": "",
     "aroma": "",
     "misc": "",
-    "mood_ratings": {},
+    "mood_ratings": {
+      "deep_sleep": 2
+    },
     "strain_type": "hybrid"
   },
   "113b51476a1d": {
@@ -583,7 +618,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "dc549314fb17": {
@@ -600,7 +636,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 3
     }
   },
   "a4762c1c9162": {
@@ -617,7 +654,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "7539507e5b37": {
@@ -634,7 +672,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "2acc971fe923": {
@@ -651,7 +690,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "52051dbd3a9a": {
@@ -668,7 +708,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "502d3a9a7b91": {
@@ -685,7 +726,8 @@
       "get_social": 4,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "ba39a9f50cca": {
@@ -702,7 +744,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "8340b5a7a612": {
@@ -719,7 +762,8 @@
       "get_social": 3,
       "pain_body": 7,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 3
     }
   },
   "6b4cda482ee2": {
@@ -736,7 +780,8 @@
       "get_social": 2,
       "pain_body": 6,
       "just_happy": 3,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 5
     }
   },
   "6449cd15ed98": {
@@ -753,7 +798,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "48e52838ab04": {
@@ -770,7 +816,8 @@
       "get_social": 6,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "e7498d2f093f": {
@@ -787,7 +834,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 4
     }
   },
   "36c3867a8ed1": {
@@ -1101,7 +1149,10 @@
     "therapeutic": "Mild stress relief, anxiety reduction, appetite stimulation, minor pain management, mood elevation",
     "negative": "Delayed onset (30–120 minutes), overconsumption risk for new users, dry mouth, increased heart rate, anxiety or paranoia at high doses, impaired coordination and cognition",
     "aroma": "Bright and candy-like with a punchy sweet cherry note layered over a zesty citrus lime tartness. The aroma mimics a classic sour gummy candy, inviting and fruit-forward with no detectable cannabis scent.",
-    "misc": "Each Cherry Lime Gummy Bar by Nebula contains 10mg THC per gummy piece and 100mg THC total per bar, making it suitable for both beginner and experienced consumers depending on portion size. New users should start with half a gummy (5mg) or one full gummy (10mg) and wait at least 90 minutes before redosing to avoid overconsumption. Experienced users may consume 2–3 gummies for stronger effects; store in a cool, dry place and keep out of reach of children and pets."
+    "misc": "Each Cherry Lime Gummy Bar by Nebula contains 10mg THC per gummy piece and 100mg THC total per bar, making it suitable for both beginner and experienced consumers depending on portion size. New users should start with half a gummy (5mg) or one full gummy (10mg) and wait at least 90 minutes before redosing to avoid overconsumption. Experienced users may consume 2–3 gummies for stronger effects; store in a cool, dry place and keep out of reach of children and pets.",
+    "mood_ratings": {
+      "deep_sleep": 2
+    }
   },
   "a1f133edf450": {
     "lineage": "MAC (Miracle Alien Cookies) x Grape Stomper — MAC is a three-way cross of Alien Cookies F2 x (Colombian x Starfighter) developed by Capulator; Grape Stomper (aka Sour Grapes) is a cross of Chemdawg Sour D x Purple Elephant from Elite Seeds",
