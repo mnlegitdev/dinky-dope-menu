@@ -1358,5 +1358,149 @@
     "negative": "Delayed onset (30–90 minutes) may lead to overconsumption; dry mouth, increased heart rate, anxiety or paranoia if too much is consumed, drowsiness, impaired coordination",
     "aroma": "Rich, creamy chocolate mingles with sweet blueberry and a subtle tangy cheesecake undertone, creating a dessert-forward sensory experience. The sweetness is prominent and approachable, masking any earthy cannabis notes effectively.",
     "misc": "This is a 200mg total THC chocolate bar from Legacy Cannabis, divided into 20 pieces at 10mg THC each — a standard, beginner-friendly dose per piece. Note: the listed THC of 193.9% appears to be a data entry error and likely refers to 193.9mg total or approximately 200mg. New consumers should start with one piece (10mg) and wait at least 90 minutes before considering an additional dose, as edible onset varies significantly by individual metabolism and whether consumed with food."
+  },
+  "sw426166": {
+    "lineage": "Ice Cream Cake x Grape Cream Cake (Unbound); Ice Cream Cake = Wedding Cake x Gelato #33; Grape Cream Cake = Wedding Cake x Grape Stomper",
+    "therapeutic": "Insomnia, anxiety, mild chronic pain, stress relief, muscle tension, mood disorders",
+    "negative": "Dry mouth, dry eyes, possible dizziness or couch-lock at higher consumption, may cause drowsiness — not recommended for daytime or task-oriented use",
+    "aroma": "Sweet and doughy with a lush grape and berry bouquet underscored by creamy vanilla notes, reminiscent of a chilled fruit dessert. A subtle sour citrus edge brightens the profile, cutting through the richness with a refreshing lift.",
+    "misc": "Produced by Unbound, Purple Ice Water sits at a moderate 13% THC, making it approachable for newer consumers while still delivering meaningful indica-leaning effects. Buds are characteristically dense and frosted with trichomes, showcasing deep purple hues inherited from its Grape Cream Cake parentage. Best suited for evening or nighttime use, this strain is ideal for unwinding after a long day, easing into sleep, or relaxing socially without heavy mental sedation early in the session.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw426172": {
+    "lineage": "Tangie x Purple Punch (Unbound); Tangie is a Cali Orange Bud x Skunk #1 hybrid popularized by DNA Genetics, while Purple Punch is a Larry OG x Granddaddy Purple cross developed by Supernova Gardens",
+    "therapeutic": "Stress relief, mild anxiety, mood elevation, body tension, mild pain management, appetite stimulation, end-of-day fatigue",
+    "negative": "Dry mouth, dry eyes, mild couch-lock at higher doses, possible dizziness or lightheadedness in low-tolerance users, potential sedation if overconsumed",
+    "aroma": "Bursts of ripe tangerine and sun-warmed orange peel lead the nose, layered beneath with sweet grape candy and a soft floral undertone reminiscent of dried lavender and light vanilla cream. A faint earthy spice rounds out the bouquet, grounding the bright citrus lift into something warm and inviting.",
+    "misc": "Orangade is produced by Unbound and sits at a moderate 18% THC, making it approachable for intermediate consumers while still delivering a satisfying indica-leaning hybrid experience. Buds typically exhibit dense, frosty structure with hues of deep green and subtle purple inherited from the Purple Punch parentage, dusted with amber trichomes. Best consumed in the early evening or after work hours when relaxation is the goal but full sedation is not yet needed — ideal for unwinding, light social settings, or creative leisure activities.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
+  },
+  "sw426178": {
+    "lineage": "Hawaiian-Romulan x Island Sweet Skunk (originated in Topeka, Kansas, reportedly created accidentally when a male Hawaiian-Romulan pollinated a female Island Sweet Skunk at a Mr. Green's Island Seed Co. grow)",
+    "therapeutic": "Stress relief, anxiety reduction, mild chronic pain, muscle tension, mood elevation, fatigue, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential dizziness, slight sedation may limit daytime productivity",
+    "aroma": "A vibrant burst of tropical citrus and ripe pineapple greets the nose first, followed by a grounding undercurrent of earthy herbs, sweet hay, and a faint spiced funk reminiscent of lemon zest and sandalwood. The overall profile is bright and complex, leaning fruity-sweet with a pleasantly herbal exhale.",
+    "misc": "Golden Goat is a well-regarded sativa-leaning hybrid that gained popularity on the West Coast before spreading nationally, known for its visually striking buds that display a mix of green, gold, and pink hues coated in trichomes. Typical THC ranges run between 16–23%, placing this Unbound batch at the lower-to-mid end, making it approachable for intermediate consumers. Best suited for late afternoon or early evening use when body relaxation is desired without full sedation — the myrcene and caryophyllene dominant terpene profile reinforces its calming, stress-melting character.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 6,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
+  },
+  "sw426176": {
+    "lineage": "Dosidos x Gelonade (Dosidos = Girl Scout Cookies x Face Off OG; Gelonade = Gelato 41 x Lemon Tree) — likely bred or selected by Unbound",
+    "therapeutic": "Stress relief, mild anxiety reduction, muscle tension, mood elevation, mild pain management, insomnia (light to moderate)",
+    "negative": "Dry mouth, dry eyes, possible mild couch-lock, may cause drowsiness at higher doses despite moderate THC, slight dizziness for low-tolerance users",
+    "aroma": "Illemonati opens with a punchy, zesty lemon rind aroma reminiscent of freshly squeezed citrus, underscored by a subtle floral and earthy sweetness from its Cookie and Gelato heritage. As it warms, creamy vanilla-like undertones emerge alongside faint herbal and spicy wood notes from the caryophyllene and humulene terpene profile.",
+    "misc": "Illemonati is a cross developed by Unbound that bridges the relaxing, body-focused depth of Dosidos with the bright, citrus-forward brightness of Gelonade, resulting in a moderately potent indica at 10.1% THC — approachable for beginners yet satisfying for casual consumers. Buds are typically dense and chunky with a frosted lime-green appearance, orange pistils, and a resinous coating reflective of its Gelato and GSC ancestry. Best enjoyed in the evening or as a wind-down strain, Illemonati suits consumers seeking relaxation without heavy sedation, pairing well with creative downtime or social settings.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 8,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
+  },
+  "sw426131": {
+    "lineage": "Zkittlez x Gelato (Runtz lineage, popularized by Cookies Fam / Runtz brand; Zkittlez itself is Grape Ape x Grapefruit, Gelato is Sunset Sherbet x Thin Mint GSC)",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, creative block, mild pain and muscle tension, fatigue",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at higher doses, potential couch-lock with overconsumption, dizziness in low-tolerance users",
+    "aroma": "Frosted Runtz opens with a rush of sugary candy sweetness reminiscent of a tropical fruit bowl, layered with creamy apricot, zesty citrus, and a faint piney earthiness on the exhale. The overall nose is dessert-like and inviting, closely resembling a bag of mixed fruit candies with a soft, doughy cream undertone.",
+    "misc": "Frosted Runtz is a phenotype or cross within the broader Runtz family, bred to emphasize the candy-fruit terpene profile of its Zkittlez and Gelato parents; at 15.2% THC it sits on the moderate end, making it approachable for newer consumers while still satisfying for intermediates. Buds typically display dense, frosted nugs with purple and green hues coated in a heavy trichome layer that lives up to the 'Frosted' name. Best enjoyed in the afternoon or early evening when a mood lift and gentle relaxation are desired without full sedation.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 3,
+      "get_social": 6,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
+  },
+  "sw426137": {
+    "lineage": "Hawaiian-Romulan x Island Sweet Skunk (Breeder: Typically attributed to Kansas and Colorado crossbreeding origins; popularized by multiple cultivators including Gage Green Genetics)",
+    "therapeutic": "Stress relief, anxiety reduction, mild chronic pain, muscle tension, mood elevation, fatigue, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible dizziness at higher doses, mild paranoia in THC-sensitive users, potential couch-lock with heavy consumption",
+    "aroma": "A vibrant burst of tropical citrus and ripe pineapple opens immediately, underscored by a damp earthy base and subtle notes of sweet spice and fresh herbs that linger on the exhale.",
+    "misc": "Golden Goat is a well-regarded hybrid with roots in accidental crossbreeding, historically testing between 16–23% THC, making this Unbound pre-roll at 21.2% a solid mid-to-upper-range expression. Buds are typically dense with golden and pink hues covered in amber trichomes, reflecting its namesake coloring. The indica-leaning profile and myrcene-dominant terpene stack make this best suited for late afternoon or evening use when stress relief and body relaxation are the primary goals, though functional users may enjoy it after work without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 6,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
+  },
+  "sw426152": {
+    "lineage": "Critical #13 x Ice #2 (Unbound); Critical #13 is derived from Critical Mass lineage (Afghani x Skunk #1), while Ice #2 draws from Indica Crystal Extreme genetics (Skunk x Northern Lights x Shiva x Afghan)",
+    "therapeutic": "Stress relief, mild anxiety, mood elevation, fatigue, mild depression, mild pain management, creative blocks",
+    "negative": "Dry mouth, dry eyes, mild dizziness at higher doses, possible anxious thoughts in THC-sensitive users, mild headache if over-consumed",
+    "aroma": "A vibrant burst of ripe tropical fruit and sweet citrus zest opens the nose, layered beneath with delicate floral lavender undertones courtesy of linalool and a subtle earthy, peppery base that adds depth and complexity.",
+    "misc": "Produced by Unbound as a sativa-dominant hybrid pre-roll pack, Papaya Fuel typically tests in the 18–22% THC range, making it approachable for intermediate consumers. Buds are expected to display bright green coloration with amber trichomes and a moderate resin coating reflective of its Ice lineage. Best suited for daytime or early afternoon use when mental clarity and uplifted focus are desired without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw426158": {
+    "lineage": "Critical #13 x Ice #2 (Unbound); Critical #13 is a cross of Critical Mass x G13, while Ice #2 is a descendant of Northern Lights #5, Shiva Skunk, and Afghan landrace genetics",
+    "therapeutic": "Stress relief, anxiety, mild depression, mood elevation, mild pain, mental fatigue, tension headaches",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia in sensitive users, slight dizziness at higher doses",
+    "aroma": "A bright and inviting burst of sweet tropical citrus — think ripe mango and tangerine — layered over soft floral undertones with a subtle spicy earthiness on the exhale from the caryophyllene backbone.",
+    "misc": "Papaya Fuel is a sativa-dominant hybrid bred to deliver functional, uplifting effects without heavy sedation, making it well-suited for daytime or early-afternoon use. The dominant terpene profile of Linalool, Limonene, and Caryophyllene contributes to its mood-lifting and mildly anxiolytic character, with Linalool adding a calming floral smoothness that balances the energizing citrus of Limonene. Consumers seeking creativity, social ease, or a gentle mental reset without couch-lock will find this strain particularly well-matched to their needs; note that the listed 0.0% THC may reflect a hemp-derived or CBD-focused formulation, so users should confirm cannabinoid content with the retailer.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
   }
 }
