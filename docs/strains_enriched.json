@@ -1502,5 +1502,23 @@
       "just_happy": 7,
       "aphrodisiac": 6
     }
+  },
+  "sw427805": {
+    "lineage": "Misty x Unknown Sativa (Nirvana Seeds) — Misty itself is a cross of White Widow x Shiva x Northern Lights x Super Skunk, developed by Nirvana Seeds in the Netherlands",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, fatigue, mood elevation, mild pain management",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible dizziness in sensitive users, overconsumption may cause anxious thoughts due to sativa component",
+    "aroma": "Medusa offers a lush, fruit-forward bouquet of wild berries and sweet floral notes, underscored by a subtle earthy muskiness courtesy of myrcene and a faint spicy herbal undertone from caryophyllene. A light, almost green-tea-like freshness lingers on the exhale, giving it an elegant and approachable scent profile.",
+    "misc": "Medusa is a Nirvana Seeds creation sometimes called 'The Nirvana Strain,' bred to showcase a harmonious sativa-indica balance that delivers a smooth, functional high without overwhelming sedation. Buds typically present with dense, frosted structure featuring purple-tinged green calyxes and amber trichomes, reflecting its White Widow heritage. At 17.9% THC, this is a moderate-strength cultivar well-suited for afternoon or early evening use, making it ideal for social settings or creative activities where relaxation without full couch-lock is desired.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 6,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
