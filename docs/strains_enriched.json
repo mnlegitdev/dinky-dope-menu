@@ -1610,5 +1610,23 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw449611": {
+    "lineage": "Zkittlez x Gelato (Cookies Fam / Runtz Crew, popularized by Cookies)",
+    "therapeutic": "Stress relief, anxiety reduction, appetite stimulation, mild insomnia, muscle tension, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential mild paranoia at higher doses, couch-lock with heavy consumption, overconsumption may intensify sedative effects",
+    "aroma": "Runtz bursts with a candy-sweet tropical bouquet layered with ripe stone fruit, citrus zest, and a subtle creamy undertone inherited from its Gelato parentage. A light earthy spice rounds out the exhale, giving it depth beyond its sugary-sweet first impression.",
+    "misc": "Runtz was originally bred by the Runtz Crew in collaboration with the Cookies family and became one of the most recognizable strains of the 2020s, winning Leafly's Strain of the Year in 2020. At 17.3% THC it sits on the moderate end of the Runtz spectrum — typical cuts range from 19–29% — making this pre-roll approachable for intermediate consumers without overwhelming novices. Buds traditionally display dense, grape-shaped nugs with deep purple hues, lime green patches, and a heavy frost of trichomes; best enjoyed in the early evening when its balanced hybrid effects can transition smoothly from uplifting euphoria into relaxed, sleepy calm.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
