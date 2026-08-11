@@ -1664,5 +1664,59 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw289783": {
+    "lineage": "Animal Mints x Kush Mints (Archive Seed Bank / Seed Junky Genetics collaboration lineage; Animal Mints = Animal Cookies x SinMint Cookies; Kush Mints = Animal Mints x Bubba Kush)",
+    "therapeutic": "Stress relief, anxiety reduction, mood elevation, mild pain management, fatigue, creative blocks, low-grade depression",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety at high doses, slight dizziness in low-tolerance users — pace consumption due to fast onset",
+    "aroma": "The aroma opens with a sharp, fuel-forward mintiness undercut by bright citrusy top notes — think lemon zest over a gas station floor in the best possible way. Deeper into the jar, sweet woody pine and a funky, spicy cheese note emerge, rounding out the profile with a complex, almost cologne-like pungency.",
+    "misc": "Soap is a boutique-tier hybrid gaining traction in craft cannabis circles, with typical THC expressions landing in the 20–26% range, consistent with its Animal Mints and Kush Mints parentage — both known for potent, resin-heavy genetics. Campfire Cannabis presents it with oversized mint-green nugs draped in orange pistils and a lavish golden-white trichome coating that signals exceptional resin production. Best suited for daytime to early evening use — ideal for social settings, creative projects, or active outdoor activities where mental clarity and mood elevation are desired without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw311174": {
+    "lineage": "Animal Mints x Kush Mints (The Soap / Seed Junky Genetics lineage; Animal Mints = Animal Cookies x SinMint Cookies, Kush Mints = Animal Mints x Bubba Kush)",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, low mood, creative blocks, ADD/ADHD symptom management",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts at higher doses, slight dizziness for low-tolerance users",
+    "aroma": "A sharp, fuel-forward mintiness dominates the nose, layered with bright sour citrus and a creamy, cheesy undertone that gives way to sweet woody pine on the exhale. The overall scent is complex and pungent — clean yet dank, reminiscent of a freshly opened bar of artisan soap laced with diesel.",
+    "misc": "The Soap is a well-regarded cultivar popularized through Seed Junky Genetics circles, known for its dense, oversized mint-green nugs blanketed in golden-white trichomes with vivid orange pistils. At 22.1% THC, this is a moderate-to-strong option best suited for daytime or early afternoon use when creativity, focus, and social energy are desired. Newer consumers should approach with measured puffs given the fast-acting sativa onset and potent terpene-driven intensity.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw452456": {
+    "lineage": "Hi-Octane phenotype (Hi-Octane = OG Kush Breath x Legend OG, bred by Compound Genetics); Purple Octane is a purple-expressing pheno selected for enhanced color, aroma, and indica-leaning potency",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, stress relief, anxiety, appetite stimulation, headache relief",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, dizziness or paranoia for low-tolerance users, heavy sedation may impair productivity — not recommended for daytime use",
+    "aroma": "A bold and complex bouquet of dark grape wine and ripe berry sweetness opens the nose, quickly undercut by sharp spicy diesel and a cracked-black-pepper finish. The overall scent is rich, savory-sweet, and pungent — reminiscent of a fruit cellar stocked beside a fuel drum.",
+    "misc": "Purple Octane is a standout phenotype of Hi-Octane, a Compound Genetics creation known for dense, resin-saturated buds and potent OG-forward effects; this purple expression adds anthocyanin-driven visual appeal with forest-green nugs streaked in violet, wrapped in fiery orange pistils and a blanket of frosty trichomes. At 23.2% THC with Caryophyllene as the dominant terpene — known for its anti-inflammatory and anxiolytic properties — this pre-roll delivers a spicy-peppery backbone that enhances body relaxation. Best reserved for evening or nighttime use, this is an ideal wind-down strain for experienced consumers seeking deep physical relief and restful sleep.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 3,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 7,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
   }
 }
