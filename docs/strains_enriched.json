@@ -1718,5 +1718,41 @@
       "just_happy": 3,
       "aphrodisiac": 3
     }
+  },
+  "sw454404": {
+    "lineage": "Chemdog (Sour Diesel x OG Kush) x Fuel OG (Diesel x Headband) — Unbound Cannabis",
+    "therapeutic": "Stress relief, depression, mood elevation, mild anxiety, fatigue, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, potential anxiety or paranoia at higher doses, mild dizziness in sensitive users",
+    "aroma": "A pungent, fuel-forward blast of sharp diesel and sour earth opens immediately, with subtle undertones of zesty citrus and fresh pine rounding out the exhale into something almost herbal and grounding.",
+    "misc": "Fuel Dog is a sativa-leaning hybrid built from an impressive lineage of fuel-heavy powerhouses, stacking Chemdog, Sour Diesel, OG Kush, and Headband genetics into one package — making it a terpene-rich descendant of some of the most iconic East Coast strains ever bred. At 18.2% THC it sits in a moderate-to-solid range, ideal for intermediate consumers seeking a cerebral, uplifting experience without overwhelming potency. Buds typically present dense and medium-sized with a frosty trichome coating, olive-green coloration, and amber pistils; best consumed during daytime or early evening when its energizing, euphoric qualities can be fully appreciated.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw454398": {
+    "lineage": "Ice Cream Cake x Grape Cream Cake (likely bred or curated by Unbound; Ice Cream Cake = Wedding Cake x Gelato 33 by Seed Junky Genetics; Grape Cream Cake = Wedding Cake x Grape Stomper lineage)",
+    "therapeutic": "Stress relief, anxiety reduction, mild chronic pain, muscle tension, insomnia (onset), mood elevation, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, mild dizziness at higher doses, potential couch-lock with heavy consumption, may cause drowsiness — not recommended before driving or operating machinery",
+    "aroma": "A lush, dessert-forward bouquet opens with sweet grape and ripe berry notes layered over a creamy vanilla base, with a subtle citrus zing on the exhale that keeps the profile bright and inviting. Underlying earthy and slightly doughy undertones round out the nose, lending it a rich, bakery-like depth.",
+    "misc": "Purple Ice Water is an indica-leaning hybrid from Unbound that sits at a moderate 16.8% THC, making it approachable for intermediate consumers without being overwhelming for beginners. Buds typically display deep purple hues with a frosty trichome coating — a visual nod to both its 'Ice' and 'Purple' parentage — and dense, resinous structure inherited from its Cake-line genetics. Best enjoyed in the evening or late afternoon, this pre-roll is ideal for unwinding after a long day, pairing well with creative leisure, light social settings, or a relaxing night in.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
