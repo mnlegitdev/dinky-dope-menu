@@ -1790,5 +1790,59 @@
       "just_happy": 3,
       "aphrodisiac": 3
     }
+  },
+  "sw477393": {
+    "lineage": "Exact genetics not publicly confirmed; likely a proprietary hybrid developed by or for Trailhead, suggested to draw from Cherry-family strains (possibly Cherry AK-47, Cherry Pie, or similar cherry-phenotype cultivars) crossed with an apple/candy-terpene-forward hybrid parent — specific breeder lineage undisclosed",
+    "therapeutic": "Stress relief, mild anxiety, depression, creative block, fatigue, mild tension headaches, low-grade pain, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild dizziness or anxious thoughts at higher doses for THC-sensitive users; not recommended for those prone to cerebral overstimulation late at night",
+    "aroma": "Cherry Lady Slipper opens with a bright, candy-sweet burst of ripe cherries and crisp green apple, evoking a fresh fruit bowl on a warm afternoon. Underneath lies a subtle sugary confection note — almost like hard candy or fruit chews — with just a whisper of earthy floral undertones that ground the sweetness.",
+    "misc": "Produced under the Trailhead brand, Cherry Lady Slipper sits at a moderate 15.5% THC, making it approachable for newer consumers while still satisfying to experienced users seeking a functional, flavorful experience. Buds are reported to be dense and visually striking, displaying deep greens and purple hues contrasted by vivid orange pistils and a heavy trichome frost. Best enjoyed during daytime creative sessions or early evening social settings where mental clarity and gentle relaxation are both welcome.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw477499": {
+    "lineage": "Killer Queen x Cindy 99 x Ice Cream Cake (Killer Queen itself being G13 x Cinderella 99, bred by TGA Subcool Seeds; Ice Cream Cake being Wedding Cake x Gelato #33 by Seed Junky Genetics)",
+    "therapeutic": "Stress relief, mood disorders, insomnia, anxiety, mild depression, appetite stimulation, fatigue",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at higher doses, possible dizziness in low-tolerance users, couch-lock if overconsumed",
+    "aroma": "Killer Cupcake greets the nose with a luscious wave of sweet vanilla cream and sugary baked goods, reminiscent of fresh cupcake frosting straight from the oven. Bright lemon citrus from the Limonene cuts through the richness, while subtle diesel and earthy spice from Caryophyllene and Humulene add depth and a slightly funky finish.",
+    "misc": "Bred from a carefully curated cross of classic and modern heavyweights, Killer Cupcake sits at a true 50/50 hybrid balance, making it a versatile all-day option suitable for both daytime creativity and evening relaxation. At 18.4% THC it's approachable for intermediate consumers while still offering satisfying potency for experienced users; its linalool and nerolidol content contribute notable calming and sedative undertones that distinguish it from lighter hybrids. Buds are typically dense and frosted with trichomes, often displaying pastel green hues with purple undertones and amber pistils, reflecting its Gelato and Ice Cream Cake heritage.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw477385": {
+    "lineage": "Sour Dubb x Chem's Sister x Chocolate Diesel (Original breeder: Joesy Whales & Lone Watty; popularized by GG Strains LLC)",
+    "therapeutic": "Chronic pain, insomnia, muscle tension, stress relief, appetite stimulation, depression, anxiety",
+    "negative": "Dry mouth, dry eyes, couch-lock at high doses, potential paranoia in THC-sensitive users, heavy sedation may impair functionality — caution advised for daytime use or low-tolerance consumers given 81.3% THC concentration in live rosin form",
+    "aroma": "A pungent, fuel-forward blast of diesel and chemical funk opens immediately, layered beneath with earthy dark chocolate and roasted coffee notes. Subtle pine resin and a faint sweetness round out the profile, characteristic of the heavy trichome resin GG4 is famous for.",
+    "misc": "GG4 (Gorilla Glue #4) earned numerous Cannabis Cup wins after its accidental creation around 2012–2014 and became one of the most decorated strains in modern cannabis history. Trailhead's live rosin vape preserves the full-spectrum terpene and cannabinoid profile from fresh-frozen flower, delivering a more authentic and potent expression than conventional distillate vapes. Best suited for evening or nighttime use due to its heavily indica-leaning sedative effects — ideal for experienced consumers seeking deep relaxation, body relief, and sleep support.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
