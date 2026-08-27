@@ -1880,5 +1880,59 @@
       "just_happy": 5,
       "aphrodisiac": 3
     }
+  },
+  "sw480496": {
+    "lineage": "Pineapple Fanta x Grape Gasoline (Unbound); Pineapple Fanta is derived from Pineapple Express lineage, while Grape Gasoline carries Grape Pie x Jet Fuel Gelato genetics, contributing both fruity sweetness and heavy fuel-forward terpene expression",
+    "therapeutic": "Stress relief, depression, fatigue, mood disorders, mild anxiety, lack of focus, social anxiety",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible racing thoughts in THC-sensitive users, not recommended for evening use due to energizing effects",
+    "aroma": "Hawaiian Fanta opens with a vivid burst of ripe pineapple and tropical citrus, layered beneath a pungent, dank fuel undertone that anchors the sweetness with an earthy, gassy depth. Floral linalool and bisabolol notes weave through the backdrop, lending a soft, almost perfume-like finish that keeps the profile bright and complex.",
+    "misc": "Produced by Unbound as part of their pre-roll lineup, Hawaiian Fanta sits at 21.3% THC, placing it in a moderate-to-potent range well-suited for experienced consumers and those with some tolerance. The buds typical of this cross tend to display dense, frosty structure with golden-green hues and vivid orange pistils reflecting its sativa-leaning heritage. Best consumed during morning or early afternoon hours, this strain is an excellent companion for creative projects, outdoor activities, or social gatherings where mental clarity and upbeat energy are desired.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw480534": {
+    "lineage": "Watermelon x (London Pound Cake x Kush Mints) — London Pound Cake is a Cookies Family cross (Sunset Sherbet x unknown heavy hitter), Kush Mints bred by Seed Junky Genetics (Animal Mints x Bubba Kush), Watermelon is an older indica-leaning hybrid with disputed origins often attributed to BC Bud Depot; combined lineage assembled by Unbound",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, mental fatigue, creative blocks, social anxiety, headaches, low-grade pain management",
+    "negative": "Dry mouth, dry eyes, potential mild paranoia or racing thoughts at higher doses in THC-sensitive users, possible lightheadedness; use cautiously if prone to anxiety",
+    "aroma": "The nose opens with a juicy, sun-warmed watermelon sweetness that immediately grabs attention, followed by buttery vanilla cake undertones reminiscent of fresh-baked pound cake; a subtle cooling mint exhale rounds out the profile with an elegant, almost candy-like finish that lingers pleasantly.",
+    "misc": "Produced by Unbound as part of their pre-roll lineup, Watermelon Pound Cake sits at approximately 21% THC making it moderate-to-potent and well-suited for intermediate consumers rather than beginners. The cultivar typically expresses dense, light green buds with amber trichomes and faint pink hues reflecting its Watermelon parentage. Best consumed during daytime or early afternoon social settings — ideal for creative projects, outdoor activities, or conversations — and not recommended as a late-night strain given its energetic sativa-forward onset.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw480555": {
+    "lineage": "GMO (Garlic Mushroom Onion, aka Chem's Sister x Skunk x OG Kush by Divine Genetics) x Jet Fuel (OG Kush x Aspen OG by 303 Seeds) x Wilson (likely Wilson Zero or a related phenotype, exact breeder unconfirmed); proprietary blend by Unbound",
+    "therapeutic": "Stress relief, anxiety reduction, mood elevation, mild chronic pain, creative blocks, social anxiety, fatigue",
+    "negative": "Dry mouth, dry eyes, possible paranoia or anxiety at high doses due to 28% THC, mild dizziness for low-tolerance users, overconsumption may shift relaxation into sedation",
+    "aroma": "A complex and pungent bouquet opens with bright zesty lemon and sweet berry up front, underpinned by deep earthy funk and a sharp diesel fuel undertone inherited from its GMO and Jet Fuel parents. The linalool adds a subtle floral lavender softness that rounds out the otherwise bold and gassy nose.",
+    "misc": "Wilfunk is a Unbound house blend cross sitting at a potent 28% THC, making it best suited for intermediate to experienced consumers looking for a daytime or early afternoon hybrid experience. Buds typically display dense, resin-coated structure with green and purple hues consistent with GMO-lineage genetics. The balanced hybrid effects lean slightly sativa in the head while the GMO heritage keeps the body grounded, making these 0.5g mini pre-rolls ideal for social settings or creative work sessions without full sedation.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
   }
 }
