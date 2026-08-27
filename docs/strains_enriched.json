@@ -1844,5 +1844,41 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw293699": {
+    "lineage": "Tahoe OG x Runtz (Runtz itself being Zkittlez x Gelato); Campfire Cannabis proprietary cross",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high doses due to 27.4% THC, couch-lock with overconsumption, not recommended for low-tolerance users",
+    "aroma": "A rich, layered bouquet of sweet tropical citrus and creamy fruit candy rides atop a grounding base of fresh pine and earthy wood. Floral and slightly herbaceous top notes from linalool and geraniol add a soft, almost lavender-like elegance to the overall profile.",
+    "misc": "Lit OG is a Campfire Cannabis branded indica-leaning hybrid that marries the heavy, fuel-laced OG potency of Tahoe OG with the sugary, candy-forward sweetness of Runtz, resulting in a well-rounded, high-THC experience typically ranging from 25–29% THC. The terpene blend — dominated by linalool, bisabolol, and terpinolene — skews strongly toward calming and sedating effects, making this best suited for evening or late-afternoon use. Consumers should start slow given the elevated THC content; expect dense, resinous buds with frosty trichome coverage, hints of purple, and a candy-meets-pine cure.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 7,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 2,
+      "just_happy": 5,
+      "aphrodisiac": 6
+    }
+  },
+  "sw477713": {
+    "lineage": "Pre-98 Bubba Kush x Sour Diesel (exact breeder unconfirmed; lineage consistent with Purple Diesel crosses popularized in West Coast markets)",
+    "therapeutic": "Stress relief, depression, mood elevation, mild pain management, fatigue, social anxiety",
+    "negative": "Dry mouth, dry eyes, occasional paranoia or anxiety at high doses (especially given 83.2% THC concentrate), dizziness for low-tolerance users",
+    "aroma": "A pungent collision of fuel-forward diesel and sharp chemical tang from the Sour Diesel heritage, softened by the earthy, coffee-like sweetness of Pre-98 Bubba Kush. Subtle grape and berry undertones emerge on the exhale, lending the 'Purple' character to the profile.",
+    "misc": "Purple Diesel leans sativa-dominant, making it best suited for daytime or early evening use when creativity, sociability, and uplifted energy are desired. At 83.2% THC, this vape concentrate is extremely potent and best reserved for experienced consumers — low-tolerance users should take single, small puffs and wait before redosing. The Pre-98 Bubba Kush parentage grounds the otherwise stimulating Sour Diesel influence with a mild body warmth, preventing the experience from becoming overly racy while still delivering the euphoric and giggly effects noted in its profile.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
   }
 }
