@@ -1952,5 +1952,41 @@
       "just_happy": 7,
       "aphrodisiac": 6
     }
+  },
+  "sw293502": {
+    "lineage": "The Soap x Project 4516 (Campfire Cannabis); The Soap is itself a complex hybrid (Animal Cookies x Georgia Pie lineage), while Project 4516 is a proprietary Campfire Cannabis breeding project with reported ties to indica-leaning Midwest genetics",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, muscle tension, insomnia (onset), headaches, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia in THC-sensitive users, potential drowsiness if overconsumed, couch-lock at higher doses",
+    "aroma": "Bubble Bath opens with a sudsy, floral sweetness reminiscent of linalool-forward lavender and fresh citrus zest, layered beneath a grounding base of damp pine wood and a subtle fuel-like diesel exhale. The overall aromatic profile is clean and spa-like, with just enough earthy woodiness to keep it grounded.",
+    "misc": "Bred and cultivated by Campfire Cannabis, Bubble Bath is designed to deliver a balanced indica-leaning hybrid experience with a terpene profile dominated by calming linalool and mood-lifting limonene, making it particularly well-suited for evening wind-down or late-afternoon relaxation sessions. Buds are typically dense and frosty with a light green base, amber pistils, and a generous trichome coating consistent with its Animal Cookies heritage. Best suited for consumers seeking stress relief without total sedation — a solid choice for unwinding after work without immediately falling asleep.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw496966": {
+    "lineage": "Animal Mints x Kush Mints (Seed Junky Genetics / Archive Seed Bank cross; Animal Mints = Animal Cookies x SinMint Cookies; Kush Mints = Animal Mints x Bubba Kush)",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, fatigue, creative blocks, low libido, muscle tension, headaches",
+    "negative": "Dry mouth, dry eyes, mild paranoia at high doses, potential dizziness for low-tolerance users, overconsumption may cause anxiety due to sativa-leaning stimulation",
+    "aroma": "A complex and striking bouquet of cool spearmint and fresh herbal earthiness layered over bright citrus zest, with a distinctive soapy-floral undertone reminiscent of rose water and lavender that gives this strain its name. Subtle notes of pine and a creamy, doughy sweetness round out the profile, making it both clean and intriguing on the inhale.",
+    "misc": "Soap is a popular phenotype derived from the Kush Mints lineage, known for its unusually clean, floral-minty terpene expression dominated by linalool and limonene, typically testing between 22–28% THC in flower form. As a cured resin vape from Stargaze, it preserves the full-spectrum terpene character of the strain, making it well-suited for daytime to early evening use when creativity and social energy are desired. Best for intermediate to experienced consumers given its potent hybrid effects; beginners should start with one to two puffs and wait to assess tolerance.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
   }
 }
