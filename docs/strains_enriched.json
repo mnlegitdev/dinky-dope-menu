@@ -53,42 +53,6 @@
       "deep_sleep": 5
     }
   },
-  "8ae18707abb9": {
-    "lineage": "Ice Cream Cake x Blockberry (Redwood County Weed Management) — Ice Cream Cake is itself a cross of Wedding Cake x Gelato #33 (Seed Junky Genetics), while Blockberry is a cross of Purple Punch x Blackberry Kush, bringing deep berry and dessert-forward genetics to this sativa-leaning hybrid",
-    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, depression, social anxiety, mild pain management, lack of focus or motivation",
-    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses for THC-sensitive users, possible dizziness; the sativa lean may cause restlessness or racing thoughts in anxiety-prone consumers",
-    "aroma": "Halle Berry opens with a lush wave of sweet berry and ripe citrus — think blackberry jam layered over orange zest — with a soft, creamy vanilla undertone inherited from its Ice Cream Cake lineage that rounds out any sharp edges. A subtle earthy spice from caryophyllene lingers in the background, grounding the otherwise fruit-forward bouquet.",
-    "misc": "Produced by Redwood County Weed Management, this pre-roll sits at a moderate 16.1% THC, making it approachable for intermediate consumers and less overwhelming for newer users seeking a gentle sativa-leaning experience. The buds typically display deep purple and green hues with orange pistils, a nod to its Blockberry parentage, and a frosty trichome coating consistent with its Gelato-descended lineage. Best enjoyed during daytime or early evening social settings — ideal for creative activities, conversation, or outdoor adventures where focus and uplifted mood are desired.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 4,
-      "lift_up": 6,
-      "get_creative": 3,
-      "get_social": 5,
-      "pain_body": 5,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 4
-    }
-  },
-  "568b36a18f9f": {
-    "lineage": "Super Sherbet x Blockberry (Redwood County Weed Management); Super Sherbet is derived from Sherbet (Girl Scout Cookies x Pink Panties) and Blockberry is believed to be a berry-forward indica-leaning hybrid, likely with Blackberry Kush genetics in its background",
-    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, creative block, mild pain management, fatigue, depression",
-    "negative": "Dry mouth, dry eyes, mild dizziness or paranoia at higher doses for THC-sensitive consumers, potential couch-lock if overconsumed",
-    "aroma": "Block Party opens with a bright, zesty citrus burst layered over sweet berry and creamy sherbet undertones, grounded by subtle earthy pine and a faint woody spice on the exhale. The overall aromatic profile is lush and dessert-like with a refreshing sour-citrus lift that keeps it from feeling too heavy.",
-    "misc": "Produced by Redwood County Weed Management, Block Party sits at a moderate 15.4% THC making it accessible for intermediate consumers without overwhelming newer users. The terpene trio of Limonene, Caryophyllene, and Humulene contributes to its balanced hybrid character — Limonene drives the uplifting and creative effects while Caryophyllene and Humulene add anti-inflammatory body relaxation and a spicy depth to the flavor. Best enjoyed in the late afternoon or early evening when you want to unwind socially or creatively without committing to full sedation.",
-    "mood_ratings": {
-      "wind_down": 3,
-      "anxiety_relief": 4,
-      "lift_up": 8,
-      "get_creative": 3,
-      "get_social": 7,
-      "pain_body": 6,
-      "just_happy": 5,
-      "aphrodisiac": 5,
-      "deep_sleep": 2
-    }
-  },
   "2acc971fe923": {
     "lineage": "Chemdawg 91 x Super Skunk (Original breeder widely attributed to AJ/Asshole Joe & Weasel, New York, early 1990s; later popularized through East Coast cannabis circles)",
     "therapeutic": "Depression, fatigue, stress, ADD/ADHD, mild pain, mood disorders, creative blocks",
@@ -2221,6 +2185,60 @@
       "pain_body": 4,
       "just_happy": 3,
       "aphrodisiac": 2
+    }
+  },
+  "sw333908": {
+    "lineage": "Ice Cream Cake x Blockberry (Redwood County Weed Management) — Ice Cream Cake is itself a cross of Wedding Cake x Gelato #33 (Seed Junky Genetics), while Blockberry is a cross of Purple Punch x Blackberry Kush, bringing deep berry and dessert-forward genetics to this sativa-leaning hybrid",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, depression, social anxiety, mild pain management, lack of focus or motivation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses for THC-sensitive users, possible dizziness; the sativa lean may cause restlessness or racing thoughts in anxiety-prone consumers",
+    "aroma": "Halle Berry opens with a lush wave of sweet berry and ripe citrus — think blackberry jam layered over orange zest — with a soft, creamy vanilla undertone inherited from its Ice Cream Cake lineage that rounds out any sharp edges. A subtle earthy spice from caryophyllene lingers in the background, grounding the otherwise fruit-forward bouquet.",
+    "misc": "Produced by Redwood County Weed Management, this pre-roll sits at a moderate 16.1% THC, making it approachable for intermediate consumers and less overwhelming for newer users seeking a gentle sativa-leaning experience. The buds typically display deep purple and green hues with orange pistils, a nod to its Blockberry parentage, and a frosty trichome coating consistent with its Gelato-descended lineage. Best enjoyed during daytime or early evening social settings — ideal for creative activities, conversation, or outdoor adventures where focus and uplifted mood are desired.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 4
+    }
+  },
+  "sw333909": {
+    "lineage": "Super Sherbet x Blockberry (Redwood County Weed Management); Super Sherbet is derived from Sherbet (Girl Scout Cookies x Pink Panties) and Blockberry is believed to be a berry-forward indica-leaning hybrid, likely with Blackberry Kush genetics in its background",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, creative block, mild pain management, fatigue, depression",
+    "negative": "Dry mouth, dry eyes, mild dizziness or paranoia at higher doses for THC-sensitive consumers, potential couch-lock if overconsumed",
+    "aroma": "Block Party opens with a bright, zesty citrus burst layered over sweet berry and creamy sherbet undertones, grounded by subtle earthy pine and a faint woody spice on the exhale. The overall aromatic profile is lush and dessert-like with a refreshing sour-citrus lift that keeps it from feeling too heavy.",
+    "misc": "Produced by Redwood County Weed Management, Block Party sits at a moderate 15.4% THC making it accessible for intermediate consumers without overwhelming newer users. The terpene trio of Limonene, Caryophyllene, and Humulene contributes to its balanced hybrid character — Limonene drives the uplifting and creative effects while Caryophyllene and Humulene add anti-inflammatory body relaxation and a spicy depth to the flavor. Best enjoyed in the late afternoon or early evening when you want to unwind socially or creatively without committing to full sedation.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "anxiety_relief": 4,
+      "lift_up": 8,
+      "get_creative": 3,
+      "get_social": 7,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 5,
+      "deep_sleep": 2
+    }
+  },
+  "sw533085": {
+    "lineage": "Sherbacio x Sweet Tea — Sherbacio is a cross of Sherbert and Gelato 41 (Cookies Fam / Archive Seed Bank heritage); Sweet Tea is believed to be a cross of Iced Tea and a sweet phenotype, contributing Southern-style sweetness and floral depth",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, muscle tension, headaches, fatigue, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible drowsiness for low-tolerance users, light dizziness",
+    "aroma": "Sunset Tea opens with a sweet, floral bouquet reminiscent of herbal iced tea laced with ripe citrus and creamy sherbet undertones. Deeper notes of earthy spice and warm wood emerge on the exhale, courtesy of the caryophyllene and humulene backbone, while linalool and bisabolol lend a soft, lavender-like sweetness throughout.",
+    "misc": "Sunset Tea is a Redwood County Weed Management house blend pre-roll showcasing a well-balanced hybrid profile at 20.2% THC, making it moderately potent and accessible for intermediate consumers. The buds are typically dense and frosted with trichomes, often displaying pastel greens and hints of purple inherited from the Gelato and Sherbert lineage. Best enjoyed in the late afternoon or early evening when a calm, focused, yet euphoric state is desirable without full sedation — ideal for social relaxation, creative unwinding, or transitioning into a restful night.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 2,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 5
     }
   }
 }
