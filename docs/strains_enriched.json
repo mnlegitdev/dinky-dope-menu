@@ -2240,5 +2240,59 @@
       "just_happy": 5,
       "aphrodisiac": 5
     }
+  },
+  "sw531844": {
+    "lineage": "Dulce de Uva x Strawberry Guava (Marawanna); Dulce de Uva is believed to derive from Grape-forward OG and sweet indica crosses, while Strawberry Guava traces roots to Magnum Opus genetics blending fruity sativa and indica phenotypes",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, mood elevation, fatigue, appetite stimulation, mild insomnia (end-of-day use)",
+    "negative": "Dry mouth, dry eyes, possible dizziness or paranoia at high doses due to elevated THC (64.4% concentrate), couch-lock with overconsumption, not recommended for low-tolerance users without careful dosing",
+    "aroma": "A luscious wave of ripe strawberry and sun-warmed grape opens the profile, layered beneath with soft floral lavender from linalool and a sharp piney freshness that cuts through the sweetness; a subtle fuel-like undertone adds depth and complexity on the exhale.",
+    "misc": "Produced by Marawanna as a concentrate with 64.4% THC, making this product significantly more potent than flower and best approached with conservative dosing, particularly for newer consumers. The indica-leaning hybrid profile makes it most suitable for late afternoon or evening use when creative relaxation and body-calming effects are desired without full sedation. The robust terpene blend — anchored by myrcene and linalool with bright top notes from limonene and terpinolene — contributes to a well-rounded entourage effect that complements the candy, grape, and vanilla flavor experience.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 9,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
+  },
+  "sw531849": {
+    "lineage": "Tropicana Cookies x Strawberry Banana (or similar Strawberry-dominant cultivar); Tropicana Cookies itself is a cross of Girl Scout Cookies x Tangie, developed by Oni Seed Co. The Strawberry-dominant parent is likely Strawberry Banana (Crockett Family Farms) or Strawberry Fields, contributing dense resin and sweet berry depth to the sativa-leaning hybrid profile.",
+    "therapeutic": "Stress relief, anxiety reduction, mood elevation, mild pain management, fatigue, depression, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts at high doses due to elevated THC (61.2%) and sativa-leaning genetics; not recommended for anxiety-prone users in large amounts; dizziness possible for low-tolerance consumers",
+    "aroma": "A vibrant, tropical burst of ripe mandarin orange and sun-warmed strawberry leads the nose, supported by a creamy, cookie-dough sweetness and a subtle floral whisper of lavender from the linalool; fresh pine and citrus zest round out the profile with a clean, bright finish that lingers pleasantly.",
+    "misc": "As a concentrate, Tropic Fresa at 61.2% THC is best suited for experienced consumers; the rich terpene blend — particularly limonene, myrcene, and linalool — suggests a smooth, flavorful dab experience with mood-lifting and body-relaxing effects that make it ideal for late afternoon or early evening use. The bisabolol and linalool lend anti-inflammatory and calming qualities that complement the uplifting sativa energy without inducing heavy sedation. Start with a low-temperature dab (around 450–520°F) to preserve the delicate tropical and floral terpene notes.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw531846": {
+    "lineage": "Sunset Octane x Wedding Mintz (Sunset Octane x Wedding Cake) — Sunset Octane is itself a cross of High Octane OG x Sunset Sherbet, with High Octane OG descending from OG Kush lineage; Wedding Cake (Triangle Kush x Animal Mints) brings the Mintz profile; likely developed within the boutique California craft cannabis breeding community",
+    "therapeutic": "Stress relief, anxiety reduction, chronic pain, muscle tension, insomnia, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high doses especially in concentrate form, couch-lock with overconsumption, not recommended for low-tolerance users due to elevated THC concentration of 61.5%",
+    "aroma": "A complex and intoxicating blend of fuel-forward diesel and motor oil anchored by deep earthy musk, layered with a surprisingly sweet and cooling mint breeze, finishing with warm vanilla and subtle floral whispers from the linalool and bisabolol terpene profile",
+    "misc": "This indica-leaning hybrid concentrate showcases a rich terpene stack dominated by myrcene and caryophyllene driving its sedating, body-heavy effects, complemented by linalool's calming floral notes and ocimene's sweet herbal lift. At 61.5% THC, this is best suited for experienced concentrate consumers seeking evening or nighttime relief from tension and sleeplessness. Start with a micro-dab and allow several minutes before redosing, as the potency and complex terp profile can intensify quickly.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
