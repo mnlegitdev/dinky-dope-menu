@@ -23,7 +23,7 @@ MENU_URL     = f"https://{STORE_DOMAIN}/{STORE_SLUG}/menu"
 DATA_FILE    = Path(__file__).parent / "docs" / "products.json"
 CST          = timezone(timedelta(hours=-6))
 
-TARGET_CATS  = ("flower", "pre-roll", "vapes", "edibles")
+TARGET_CATS  = ("flower", "pre-roll", "vapes", "edibles", "concentrates")
 
 STORE_ID = 609
 
@@ -123,6 +123,7 @@ SWEED_CATEGORIES = {
     "pre-roll": 6451,
     "edibles":  6452,
     "vapes":    6449,
+    "concentrates": 6453,
 }
 
 _WEIGHT_TO_TIER = {
@@ -146,6 +147,7 @@ _CAT_NORM = {
     "vape cartridges": "vapes", "cartridge": "vapes", "cartridges": "vapes",
     "disposable": "vapes", "disposables": "vapes",
     "edible": "edibles", "edibles": "edibles",
+    "concentrate": "concentrates", "concentrates": "concentrates",
 }
 
 def _norm_category(raw_cat: str) -> str:
@@ -308,8 +310,10 @@ def try_sweed_api() -> list[dict]:
                                  timeout=15)
                 if r.status_code != 200:
                     break
-                found = _parse_sweed_response(r.json(), force_category=cat_name)
-                if not found:
+                data  = r.json()
+                raw_n = len(data.get("list") or []) if isinstance(data, dict) else 0
+                found = _parse_sweed_response(data, force_category=cat_name)
+                if not raw_n:
                     break
                 any_success = True
                 for p in found:
@@ -318,7 +322,7 @@ def try_sweed_api() -> list[dict]:
                         log(f"  COLLISION [{cat_name}]: '{p['name']}' ({p.get('weight','')}) overwrites '{all_products[k]['name']}' ({all_products[k].get('weight','')})")
                     all_products[k] = p
                 log(f"Direct API [{cat_name}] page {page_num}: {len(found)} products")
-                if len(found) < 24:
+                if raw_n < 24:
                     break
                 page_num += 1
             except Exception:
@@ -512,6 +516,7 @@ CATEGORY_PAGE_URLS = {
     "pre-roll": f"{MENU_URL}/pre-rolls-{SWEED_CATEGORIES['pre-roll']}",
     "edibles":  f"{MENU_URL}/edibles-{SWEED_CATEGORIES['edibles']}",
     "vapes":    f"{MENU_URL}/vapes-{SWEED_CATEGORIES['vapes']}",
+    "concentrates": f"{MENU_URL}/concentrates-{SWEED_CATEGORIES['concentrates']}",
 }
 
 
