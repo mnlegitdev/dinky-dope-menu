@@ -2366,5 +2366,41 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw333902": {
+    "lineage": "Apples and Bananas x Grape Gas (Compound Genetics); Apples and Bananas is itself a four-way cross of Platinum Cookies x Granddaddy Purple x Blue Power x Gelatti, while Grape Gas descends from Grape Pie x Jet Fuel Gelato lineage",
+    "therapeutic": "Stress relief, appetite stimulation, mild insomnia, anxiety reduction, muscle tension, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild dizziness for novice consumers, may cause overconsumption-related sedation due to indica dominance",
+    "aroma": "Gastro Pop opens with a striking burst of sweet tropical fruit and ripe grape, quickly undercut by a sharp, fuel-forward diesel funk that lingers on the exhale. Subtle citrus zest and a whisper of spiced earthiness round out the complex nose, making it both candy-like and pungently gassy.",
+    "misc": "Gastro Pop is a well-regarded Compound Genetics cultivar that has gained popularity for its complex terpene layering and visually striking buds, which typically display deep purple and forest green hues with heavy trichome coverage and vivid orange pistils. At 16.4% THC this particular batch sits on the moderate end of the strain's typical 20–26% range seen in flower form, making this pre-roll approachable for intermediate consumers while still delivering noticeable indica-leaning effects. Best suited for late afternoon or evening use, Gastro Pop is ideal for unwinding after work, stimulating appetite before a meal, or easing into a relaxed social setting before sleep.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw565961": {
+    "lineage": "Larry OG x Granddaddy Purple (Larry OG itself is a cross of OG Kush x SFV OG; Granddaddy Purple is Ken Estes' classic Big Bud x Purple Urkle cross) — popularized by Supernova Gardens",
+    "therapeutic": "Stress relief, anxiety, insomnia, chronic pain, muscle tension, appetite stimulation, depression",
+    "negative": "Dry mouth, dry eyes, dizziness at high doses, heavy sedation, couch-lock, potential grogginess, not recommended for daytime productivity tasks",
+    "aroma": "A luscious wave of sweet blueberry muffins and grape candy rolls off this strain, underscored by earthy pine and a subtle spicy herbal finish that grounds the sweetness. The overall bouquet is dessert-like and inviting, reminiscent of fresh fruit punch with a piney, slightly peppery backbone.",
+    "misc": "Purple Punch has earned significant recognition in concentrate form across multiple Cannabis Cup competitions, making it a standout in the vape and extract market. At 91.9% THC, this Stargaze vape is an extremely potent product best reserved for experienced consumers — novices should take one small puff and wait several minutes before redosing. Ideal as an evening or nighttime strain, the terpene trio of Pinene, Limonene, and Caryophyllene delivers a balanced effect profile that starts with uplifting cerebral clarity before transitioning into deep, full-body relaxation and sedation.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 8,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
   }
 }
