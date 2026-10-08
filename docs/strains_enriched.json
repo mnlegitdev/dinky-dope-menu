@@ -2481,5 +2481,41 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw568917": {
+    "lineage": "Chem's Sister x Sour Dubb x Chocolate Diesel (Original breeder: GG Strains, accidentally created by Joesy Whales and Lone Watie around 2013; formerly known as Gorilla Glue #4)",
+    "therapeutic": "Chronic pain, insomnia, muscle spasms, stress, anxiety, depression, appetite loss",
+    "negative": "Dry mouth, dry eyes, couch-lock at moderate to high doses, possible dizziness or paranoia in sensitive users, heavy sedation may impair productivity",
+    "aroma": "GG4 opens with a pungent, fuel-forward blast of diesel and chemical earthiness, undercut by a surprisingly rich cocoa and coffee sweetness. As the buds are broken apart, sharp pine and a sour, almost astringent note emerge, creating a complex and deeply resinous olfactory experience.",
+    "misc": "GG4 is one of the most decorated and recognized strains in modern cannabis history, having won multiple Cannabis Cups including the 2014 Michigan and Los Angeles Cannabis Cups. Buds are typically dense, chunky, and absolutely coated in thick, sticky white trichomes with amber pistils — a hallmark of its legendary resin production. At 19.1% THC from Dabney's Cannabis Co., this leans toward the lower end of GG4's typical 20–28% range, making it a slightly more approachable option while still delivering the strain's signature full-body relaxation and euphoric onset; best consumed in the evening or before bed.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw568931": {
+    "lineage": "(Crypto × MAC Stomper) × Colorado Night Shifter (Dabney's Cannabis Co. / Doctor Dabs in-house breeding program)",
+    "therapeutic": "Stress relief, anxiety management, mild pain and inflammation, muscle tension, mood elevation, sleep support",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher sensitivity levels, possible couch-lock in larger doses despite moderate THC",
+    "aroma": "A lush wave of sweet mixed berries opens the nose immediately, underpinned by earthy, peppery depth from the dominant caryophyllene and a subtle floral linalool lift that keeps the profile bright and inviting. A faint sour citrus edge rounds out the bouquet, giving it a complex, layered quality that belies its moderate potency.",
+    "misc": "Crypto Shifter is a fully proprietary, craft-bred Indica-dominant hybrid developed in-house by Dabney's Cannabis Co. under the Doctor Dabs label, combining the resinous MAC Stomper influence, the enigmatic Crypto genetics, and the mellow depth of Colorado Night Shifter. At 13.8% total THC this cultivar is well-suited for moderate consumers, new users stepping up from low-THC products, or seasoned consumers seeking a functional, non-overwhelming evening wind-down experience. Buds are expected to display dense, indica-leaning structure with frosty trichome coverage and purple-tinged hues reflecting the Night Shifter heritage; best enjoyed in late afternoon or evening for its calming, relaxing effect profile.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
   }
 }
