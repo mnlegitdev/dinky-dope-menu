@@ -2517,5 +2517,59 @@
       "just_happy": 7,
       "aphrodisiac": 6
     }
+  },
+  "sw568986": {
+    "lineage": "Permanent Marker x Dosidos (Float Cannabis); Permanent Marker itself is a cross of Biscotti x Jealousy x Sherb Bx, while Dosidos is OG Kush Breath x Face Off OG",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, anxiety, stress relief, appetite stimulation, depression",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild paranoia in THC-sensitive users, drowsiness",
+    "aroma": "Magic Marker opens with a bold burst of fruity citrus and sweet cream, quickly deepening into layers of spicy diesel, woody pine, and a dank, earthy funk that lingers on the exhale. The pungent, resinous nose is rich and complex, reflecting its terpene-heavy genetics with a kushy backbone and a bright, almost candy-like top note.",
+    "misc": "Produced by Float Cannabis, Magic Marker is positioned as a next-generation evolution of the highly sought-after Permanent Marker lineage, carrying on its legacy of dense, trichome-caked buds — characterized here by bright emerald-green spade-shaped nugs with striking dark purple leaves and vivid orange pistils. With 23.5% THC and a robust terpene profile headlined by Myrcene, Linalool, and Caryophyllene, this strain skews heavily toward evening and nighttime use, ideal for unwinding after a long day or easing into sleep. Consumers new to high-THC indica hybrids should start low, as the sedative body high can intensify significantly with larger doses.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw568992": {
+    "lineage": "Grape Ape x Zkittlez (Float Cannabis) — Grape Ape itself is a cross of Mendocino Purps x Skunk #1 x Afghani; Zkittlez is a cross of Grape Ape x Grapefruit, developed by Terp Hogz and 3rd Gen Family",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, appetite stimulation, muscle tension, chronic fatigue, mood elevation, minor aches and pains",
+    "negative": "Dry mouth, dry eyes, mild dizziness or lightheadedness at higher doses, potential for couch-lock if overconsumed, may cause slight anxiety in THC-sensitive users",
+    "aroma": "Grape Canyon Zkittlez opens with a rich, candy-like wave of sweet grape and mixed berry, reminiscent of a freshly opened bag of fruit chews, layered with a zesty citrus lift and a faint tropical banana undertone. The finish reveals a subtle earthy spice with a lightly floral and peppery depth that grounds the sweetness beautifully.",
+    "misc": "Bred and cultivated by Float Cannabis, this indica-leaning hybrid sits at a moderate 16.9% THC, making it approachable for intermediate consumers while still delivering a satisfying experience for seasoned users. The buds present beautifully — fluffy and dusty green with eye-catching purple undertones, vivid orange pistils, and a generous blanket of white trichomes that signal solid resin production. Best suited for late afternoon or early evening use when you want to unwind socially or creatively without being fully sedated.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw569008": {
+    "lineage": "Jungle Spice × Gorilla Diesel #3 (Float Cannabis); Jungle Spice is a cross of Tropicana Cookies × Mandarin Sunset, while Gorilla Diesel #3 traces back to GG4 (Gorilla Glue #4) × Sour Diesel lineage",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, creative blocks, attention and focus difficulties",
+    "negative": "Dry mouth, dry eyes, possible anxiety or paranoia at high doses, mild headache in sensitive users, overconsumption may cause racing thoughts",
+    "aroma": "A sharp, zesty burst of fresh lemon zest and citrus peel leads the nose, layered beneath with funky diesel fuel and a subtle earthiness reminiscent of aged cheese and pine resin. Secondary herbal and floral notes from linalool and bisabolol add a soft, almost lavender-like complexity to the bright top notes.",
+    "misc": "Bred by Float Cannabis, Lemon Fresh sits at a robust 24% THC making it best suited for experienced consumers seeking daytime or early afternoon use. Buds are typically dense and medium-sized with bright green coloration, orange pistils, and a generous trichome coating that reflects its GG4 heritage. The terpene-rich profile — dominated by myrcene, limonene, and terpinolene — delivers a well-rounded sativa experience that pairs well with creative projects, social settings, or physical activity.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
   }
 }
