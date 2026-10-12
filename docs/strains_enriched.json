@@ -2571,5 +2571,41 @@
       "just_happy": 6,
       "aphrodisiac": 4
     }
+  },
+  "sw566307": {
+    "lineage": "Purple Afghani x OG Kush (dizgo); Purple Afghani is a heavily indica-leaning landrace-derived cultivar known for deep body effects and vivid purple coloration, crossed with the legendary OG Kush (Hindu Kush x Chemdawg lineage), a California staple that contributes potency, structure, and fuel-forward depth",
+    "therapeutic": "Stress relief, anxiety reduction, mild to moderate pain management, muscle tension, insomnia, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild dizziness or headache at higher doses, couch-lock potential with prolonged use, may cause drowsiness — not recommended before driving or operating machinery",
+    "aroma": "A lush wave of ripe dark cherries and mixed berries opens the profile, underscored by a subtle earthy sweetness from the Afghani genetics and a faint floral lavender lift courtesy of the dominant linalool terpene. A soft citrus brightness from limonene cuts through the sweetness, while caryophyllene adds a barely-there peppery warmth on the exhale.",
+    "misc": "Cherry Kush at 19.8% THC sits comfortably in the mid-to-upper potency range, making it suitable for intermediate consumers and experienced users alike — novices should approach the 0.33g pre-rolls slowly. Buds are typically dense and compact with Afghani structure, often displaying purple and violet hues beneath a generous trichome frost with deep green undertones. Best consumed in the evening or late afternoon given its calming and relaxing indica-leaning effects; ideal for unwinding after work, social relaxation, or transitioning into sleep.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 6
+    }
+  },
+  "sw569033": {
+    "lineage": "Mixed Fruit is likely a proprietary blend or house-curated hybrid by Dizgo, potentially combining fruity cultivars such as Zkittlez, Gelato, or similar dessert/fruit-forward strains; exact genetic lineage is not publicly documented by the brand",
+    "therapeutic": "Mood elevation, stress relief, mild anxiety reduction, creative stimulation, fatigue, mild pain management",
+    "negative": "Dry mouth, dry eyes, potential dizziness or headache at high doses (71.9% THC is potent for concentrate novices), mild paranoia in sensitive users, overconsumption risk due to high THC concentration",
+    "aroma": "A vibrant, candy-sweet bouquet bursting with tropical and mixed berry notes — think ripe mango, strawberry, and citrus zest layered over a subtle earthy base. The live rosin extraction preserves the full-spectrum terpene profile, delivering an authentically fresh, fruit-forward scent that closely mirrors the living plant.",
+    "misc": "Dizgo's Mixed Fruit Live Rosin cartridge is a solventless extract made using ice-water hash pressed into rosin, preserving a rich terpene profile without chemical solvents. At 71.9% THC, this is a high-potency product best suited for experienced consumers; new users should start with a single small puff and wait before redosing. Ideal for daytime to early evening use when mood enhancement and social energy are desired, and the balanced hybrid effects support both creativity and relaxation without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
   }
 }
