@@ -2686,5 +2686,23 @@
     "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high doses due to elevated THC (60.5%), overconsumption risk for novice users, possible sedation with repeated dosing",
     "aroma": "A burst of sun-ripened watermelon and candied tropical fruits leads the nose, layered with sweet berry undertones and a subtle floral lift from linalool, finishing with a faint earthy spice that grounds the sweetness.",
     "misc": "This is a live resin-based edible product from MN FIRST, a Minnesota cannabis brand known for premium extract formulations. At 60.5% THC, this is a high-potency product recommended for experienced consumers — novice users should start with a partial dose and wait 60–90 minutes before redosing. The live resin extraction process preserves the full terpene profile of the source material, delivering a more flavorful and potentially more nuanced effect compared to distillate-based edibles; the dominant myrcene and linalool suggest a relaxing, body-forward hybrid experience with mood-lifting limonene notes."
+  },
+  "sw570881": {
+    "lineage": "GSC (Girl Scout Cookies) x Wookie 15 (Appalachia x The White) (Valhalla Cannabis Co)",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, appetite stimulation, muscle tension, fatigue",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential dizziness for low-tolerance users",
+    "aroma": "A complex and inviting nose opens with sweet cookie dough and earthy funk, quickly layered by bright grapefruit citrus and a sharp diesel-gas undertone. Subtle floral lavender from the linalool rounds out the finish, giving it an unexpected elegance beneath all the funk.",
+    "misc": "Granola Funk is a standout achievement from Valhalla Cannabis Co, earning first place in the Indoor Flower category at the 2026 Legacy Cup — a strong testament to its cultivation quality and bag appeal. Buds are typically dense and GSC-influenced in structure, showcasing deep greens with purple hues, vivid orange pistils, and a heavy trichome coating that reflects its award-winning indoor grow. At 17.5% THC, this is a well-rounded hybrid-indica best suited for late afternoon or early evening use, offering euphoric and giggly uplift before settling into relaxed comfort — ideal for social settings or creative wind-down sessions.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
