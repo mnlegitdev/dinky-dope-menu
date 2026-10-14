@@ -2711,5 +2711,41 @@
     "negative": "Overconsumption risk for new users (10mg per gummy is a moderate-to-strong dose for beginners), delayed onset (30–90 minutes), dry mouth, increased heart rate, anxiety or paranoia if too many gummies consumed, impaired coordination — do not drive or operate machinery",
     "aroma": "Each gummy carries a bright, tangy green apple scent reminiscent of sour candy, with a sharp citrus-like tartness upfront and a light sugary sweetness underneath. There is no notable cannabis aroma, as the distillate used is typically odorless and flavor-neutral.",
     "misc": "Voyageur's Sour Apple gummies are precisely dosed at 10mg THC each, making them suitable for intermediate users but potentially too strong for cannabis-naive individuals — beginners should start with half a gummy (5mg). Onset typically ranges from 30 to 90 minutes depending on metabolism, body weight, and whether taken with food, with effects lasting 4–8 hours. Always wait at least 2 hours before redosing to avoid overconsumption."
+  },
+  "sw570737": {
+    "lineage": "Sour Stomper x Grape Crinkle (Verist Fields)",
+    "therapeutic": "Stress relief, mild anxiety, mood elevation, muscle tension, mild pain management, insomnia (light cases)",
+    "negative": "Dry mouth, dry eyes, mild paranoia in sensitive users, possible drowsiness at higher doses, couch-lock if overconsumed",
+    "aroma": "A pungent burst of fermented grape and tangy sour citrus opens immediately, followed by an earthy, dank undercurrent with subtle floral and berry sweetness that lingers on the exhale.",
+    "misc": "Double Sour Grape is a house cultivar from Verist Fields, crossing the tart, fuel-forward Sour Stomper with the sweet, purple-hued Grape Crinkle to produce a flavorful indica-leaning hybrid. At 16.8% THC, this is a moderate-strength option well-suited for intermediate consumers and those seeking balanced relaxation without heavy sedation. The Little Sticks 5-pack format makes it ideal for evening wind-down sessions or social settings where gentle euphoria and calm are desired without full couch-lock.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw570738": {
+    "lineage": "Blackberry Kush x StrawGlue (Verist Fields, Minnesota River Valley)",
+    "therapeutic": "Stress relief, anxiety, mild pain management, mood elevation, fatigue, tension headaches",
+    "negative": "Dry mouth, dry eyes, possible mild dizziness at higher doses, may cause drowsiness in sensitive users",
+    "aroma": "Valley Frost opens with a bright citrus zest layered over cool menthol and ripe berry sweetness, giving way to a grounding earthy musk with subtle fuel undertones and a creamy, almost floral finish reminiscent of lavender — characteristic of its linalool and limonene dominance.",
+    "misc": "Valley Frost is a proprietary cultivar developed and grown by Verist Fields in the Minnesota River Valley, crossing the indica-leaning Blackberry Kush with the resinous, hybrid StrawGlue (a Strawberry Banana x Gorilla Glue derivative) to produce a balanced hybrid experience. At 18.1% THC, this strain sits in an approachable mid-potency range suitable for both newer consumers and experienced users seeking functional daytime or early evening relaxation without heavy sedation. The terpene stack — pairing calming linalool and nerolidol with energizing limonene and grounding caryophyllene — supports its well-rounded effect profile of clarity and calm, making it a solid choice for social settings or creative endeavors.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
   }
 }
