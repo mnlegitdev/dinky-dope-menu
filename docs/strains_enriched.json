@@ -1,22 +1,4 @@
 {
-  "ee5cc6a7a40e": {
-    "lineage": "Purple Thai x Unknown Hybrid (Campfire Cannabis) — Purple Thai itself is a classic sativa-leaning landrace-influenced cross with deep Southeast Asian genetic roots, historically linked to Thai landrace strains crossed with purple-expressing varieties; the unknown hybrid cross likely introduces additional hybrid vigor and terpene complexity",
-    "therapeutic": "Stress relief, mild anxiety, fatigue, depression, appetite stimulation, mild pain relief, mood elevation",
-    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety in THC-sensitive users at higher doses, possible dizziness; not ideal for those prone to sativa-induced racing thoughts",
-    "aroma": "Bangkok Purple opens with a bright burst of tropical fruit and sweet berry, layered over a citrusy-sour backbone with subtle piney earthiness underneath; as the bud is broken apart, a light floral and herbal note emerges, reminiscent of Southeast Asian botanicals with a clean, refreshing finish",
-    "misc": "Campfire Cannabis positions Bangkok Purple as a daytime-to-early-evening sativa-dominant hybrid, well-suited for creative activities, social settings, or outdoor adventures given its energizing yet calming balance at a moderate 16.9% THC — approachable for intermediate consumers but manageable for mindful beginners. Buds likely display purple-hued calyxes with orange pistils and a moderate-to-heavy trichome coating, consistent with its Purple Thai heritage. The broad terpene profile featuring Myrcene and Terpinolene together creates an unusually smooth, uplifting experience that softens the typical sativa edge.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 4,
-      "lift_up": 7,
-      "get_creative": 8,
-      "get_social": 6,
-      "pain_body": 4,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 3
-    }
-  },
   "834520222a18": {
     "lineage": "Gorilla Glue #4 (Chem's Sister x Sour Dubb x Chocolate Diesel) x Jokerz (White Runtz x Jet Fuel Gelato) (Grasslandz / in-house cross)",
     "therapeutic": "Stress relief, anxiety reduction, mild pain management, mood elevation, creative blocks, fatigue",
@@ -2927,5 +2909,30 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "sw347227": {
+    "lineage": "Purple Thai x Unknown Hybrid (Campfire Cannabis) — Purple Thai itself is a classic sativa-leaning landrace-influenced cross with deep Southeast Asian genetic roots, historically linked to Thai landrace strains crossed with purple-expressing varieties; the unknown hybrid cross likely introduces additional hybrid vigor and terpene complexity",
+    "therapeutic": "Stress relief, mild anxiety, fatigue, depression, appetite stimulation, mild pain relief, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety in THC-sensitive users at higher doses, possible dizziness; not ideal for those prone to sativa-induced racing thoughts",
+    "aroma": "Bangkok Purple opens with a bright burst of tropical fruit and sweet berry, layered over a citrusy-sour backbone with subtle piney earthiness underneath; as the bud is broken apart, a light floral and herbal note emerges, reminiscent of Southeast Asian botanicals with a clean, refreshing finish",
+    "misc": "Campfire Cannabis positions Bangkok Purple as a daytime-to-early-evening sativa-dominant hybrid, well-suited for creative activities, social settings, or outdoor adventures given its energizing yet calming balance at a moderate 16.9% THC — approachable for intermediate consumers but manageable for mindful beginners. Buds likely display purple-hued calyxes with orange pistils and a moderate-to-heavy trichome coating, consistent with its Purple Thai heritage. The broad terpene profile featuring Myrcene and Terpinolene together creates an unusually smooth, uplifting experience that softens the typical sativa edge.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 8,
+      "get_social": 6,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 3
+    }
+  },
+  "sw583516": {
+    "lineage": "Edible product — no cultivar lineage applicable. This is a Watermelon-flavored hybrid cannabis gummy by Voyager, infused with cannabis-derived or distillate THC extract.",
+    "therapeutic": "Stress relief, mild anxiety reduction, pain management, appetite stimulation, relaxation, sleep support at higher doses",
+    "negative": "Dry mouth, dry eyes, delayed onset may lead to overconsumption, anxiety or paranoia if dose exceeded, impaired coordination, couch-lock at multiple gummies, not suitable for THC-naive users",
+    "aroma": "These gummies carry a sweet, candy-forward watermelon scent reminiscent of summertime fruit — bright, sugary, and approachable. There are no notable cannabis terpene aromas as the flavor profile is dominated by artificial or natural watermelon flavoring.",
+    "misc": "Each gummy contains 10mg THC, which is considered a standard recreational and therapeutic dose — beginners should start with 5mg (half a gummy) and wait 90–120 minutes before redosing, as edible onset varies widely by metabolism. The pack contains 10 gummies totaling 100mg THC, making it a solid mid-tier value option for experienced consumers. Note: the listed THC of 109% appears to be a data entry error and likely reflects the total pack potency in milligrams (100mg) or a labeling issue — consumers should rely on the per-gummy 10mg dosing guidance on the physical packaging."
   }
 }
