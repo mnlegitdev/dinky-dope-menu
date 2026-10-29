@@ -2934,5 +2934,41 @@
     "negative": "Dry mouth, dry eyes, delayed onset may lead to overconsumption, anxiety or paranoia if dose exceeded, impaired coordination, couch-lock at multiple gummies, not suitable for THC-naive users",
     "aroma": "These gummies carry a sweet, candy-forward watermelon scent reminiscent of summertime fruit — bright, sugary, and approachable. There are no notable cannabis terpene aromas as the flavor profile is dominated by artificial or natural watermelon flavoring.",
     "misc": "Each gummy contains 10mg THC, which is considered a standard recreational and therapeutic dose — beginners should start with 5mg (half a gummy) and wait 90–120 minutes before redosing, as edible onset varies widely by metabolism. The pack contains 10 gummies totaling 100mg THC, making it a solid mid-tier value option for experienced consumers. Note: the listed THC of 109% appears to be a data entry error and likely reflects the total pack potency in milligrams (100mg) or a labeling issue — consumers should rely on the per-gummy 10mg dosing guidance on the physical packaging."
+  },
+  "sw588464": {
+    "lineage": "Blueberry (DJ Short) x Haze (Santa Cruz Haze)",
+    "therapeutic": "Depression, anxiety, chronic pain, fatigue, stress, PTSD, mild nausea, lack of focus",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at high doses, dizziness, potential headache with overconsumption",
+    "aroma": "A rich wave of sweet blueberry and ripe berry fruit opens first, followed by a earthy, floral undertone with subtle hints of vanilla and fresh pine. The overall profile is bright and inviting, with a gentle herbal complexity that lingers pleasantly.",
+    "misc": "Blue Dream was popularized on the West Coast, particularly in California, and became one of the best-selling strains in legal markets throughout the 2010s. Naturally, it sits around 17-25% THC in flower form, making this Unbound vape at 86.1% THC a highly concentrated and potent experience best suited for experienced consumers. Ideal for daytime or early evening use, this sativa-dominant hybrid offers a well-balanced lift that is mentally energizing without being overwhelming, making it excellent for creative work, social settings, or outdoor activities.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
+  },
+  "sw588492": {
+    "lineage": "Skywalker OG is a cross between Skywalker (Blueberry x Mazar) and OG Kush, originally bred by Dutch Passion Seed Company",
+    "therapeutic": "Insomnia, chronic pain, stress, anxiety, muscle tension, appetite loss, depression",
+    "negative": "Dry mouth, dry eyes, couch-lock at high doses, dizziness, paranoia possible in novice users or at excessive doses, heavy sedation may impair daytime function",
+    "aroma": "A rich, dank blend of earthy pine and fuel-forward OG musk greets the nose first, followed by a bright citrus zest and subtle sweet berry undertones that round out the complexity. The overall profile is pungent and resinous with a spicy herbal finish.",
+    "misc": "At 86.8% THC, this is a highly potent vape concentrate suited for experienced consumers — novice users should exercise caution with dosing. Skywalker OG is widely recognized as a heavy-hitting indica-leaning hybrid known for full-body relaxation and cerebral euphoria that transitions into deep sedation, making it best reserved for evening or nighttime use. The dominant terpene profile of Myrcene, Limonene, and Caryophyllene contributes to its signature sedative, mood-lifting, and anti-inflammatory effects, and the strain has earned strong popularity among medical patients seeking relief from chronic pain and sleep disorders.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
