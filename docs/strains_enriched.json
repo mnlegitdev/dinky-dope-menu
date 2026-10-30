@@ -2970,5 +2970,59 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw589844": {
+    "lineage": "Likely derived from Grape Gasoline x Wedding Cake or similar dessert/berry-forward indica-dominant hybrid genetics; exact breeder lineage not publicly confirmed by Float Cannabis, but phenotype characteristics suggest OG Kush and Granddaddy Purple ancestry contributing the grape and berry expression",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia (evening use), muscle tension, mood elevation, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, mild paranoia in THC-sensitive users, potential couch-lock at higher consumption levels, drowsiness if overconsumed — not recommended before driving or demanding tasks",
+    "aroma": "A lush, candy-like bouquet of ripe blueberries and dark grape jam layered over a warm, spiced earthiness, with subtle floral sweetness from linalool and bisabolol rounding out the nose. A faint piney undertone from beta-pinene adds just enough sharpness to keep the sweetness grounded and complex.",
+    "misc": "Float Cannabis is a Canadian-based pre-roll brand known for accessible, consistent multi-pack formats targeting social and relaxation-focused consumers. At 23.6% THC, Glitter Bomb sits in the moderate-to-high potency range, making it suitable for intermediate users but potentially intense for beginners. The myrcene-dominant terpene profile reinforces the indica-leaning sedative character, making this best suited for evening or late-afternoon use when unwinding, socializing lightly, or preparing for sleep.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw591225": {
+    "lineage": "Sour Diesel x Green Crack (exact breeder origin unconfirmed; likely developed from East Coast Sour Diesel and Green Crack hybrid crosses common in the Pacific Northwest craft market)",
+    "therapeutic": "Stress relief, mild depression, fatigue, anxiety management, mood elevation, mild pain relief",
+    "negative": "Dry mouth, dry eyes, potential mild paranoia or anxiety at higher doses, dizziness in low-tolerance users, overconsumption may cause racing thoughts",
+    "aroma": "A sharp, fuel-forward blast of classic diesel immediately greets the nose, layered beneath with zesty citrus peel and bright pine resin. Earthy, herbal undertones from myrcene and humulene add a grounding depth, while subtle floral hints from linalool soften the overall profile into something surprisingly complex and inviting.",
+    "misc": "Green Diesel is a balanced hybrid leaning slightly sativa in effect expression, with typical THC levels ranging between 19–24%, making Float Cannabis's 23.1% a solid top-shelf representation. The buds traditionally present with dense, medium-sized nugs showing bright green coloration with amber pistils and a frosty trichome coating reflective of its Sour Diesel heritage. Best consumed during daytime or early evening social settings where euphoria and gigginess are welcome; the terpinolene and limonene-forward profile makes it particularly well-suited for creative activities, socializing, or combating mid-day fatigue without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 5,
+      "lift_up": 5,
+      "get_creative": 6,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw600656": {
+    "lineage": "Sunset Sherbet x Thin Mint Girl Scout Cookies (Cookies Fam / Sherbinski collaboration); Sunset Sherbet itself descends from Girl Scout Cookies x Pink Panties, making Bacio Gelato a rich Cookies-family hybrid with deep OG Kush, Durban Poison, Cherry Pie, and F1 Durb ancestry",
+    "therapeutic": "Chronic pain, stress relief, anxiety, insomnia, depression, muscle tension, appetite stimulation, mood disorders",
+    "negative": "Dry mouth, dry eyes, dizziness, paranoia at high doses, couch-lock, heavy sedation with overconsumption — use caution if sensitive to high-THC products; not recommended for novice users due to 82.8% THC concentrate potency",
+    "aroma": "A deeply intoxicating blend of sweet berry and creamy vanilla layered over cool mint, with an undercurrent of earthy fuel and subtle floral spice that lingers on the exhale — rich, dessert-like, and complex.",
+    "misc": "Bacio Gelato (Gelato #57) is a celebrated phenotype from the legendary Gelato line bred by the Cookies Fam, with 'Bacio' meaning 'kiss' in Italian, nodding to its smooth, indulgent character. In flower form it typically tests between 22–28% THC and displays dense, purple-tinged buds frosted with heavy trichome coverage. This vape is best suited for evening or nighttime use given its deeply relaxing and sedating effect profile; experienced consumers should start with one to two draws and pace accordingly.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
