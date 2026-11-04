@@ -3132,5 +3132,59 @@
       "just_happy": 6,
       "aphrodisiac": 4
     }
+  },
+  "sw608356": {
+    "lineage": "God Bud x OG Breath (likely phenotype selection from God Bud x OGKB lineage); exact breeder attribution varies, with some cuts traced to crosses involving God Bud (Jordan of the Islands) and OG Kush Breath derivatives",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, stress relief, anxiety, appetite stimulation, depression",
+    "negative": "Dry mouth, dry eyes, dizziness at higher doses, potential couch-lock, may cause grogginess or heavy sedation — not recommended for daytime use or tasks requiring alertness",
+    "aroma": "God's Breath greets the nose with a rich, dank earthiness layered with sweet grape and berry undertones, reminiscent of a wine cellar floor dusted with fresh herbs and pine resin. Subtle woody and spiced notes emerge on the exhale, rounding out a complex, old-school Indica bouquet.",
+    "misc": "At 23.9% THC, God's Breath sits in the high-potency range for Indica-dominant flower, making it best suited for experienced consumers or evening use. Buds are typically dense and chunky with deep purple hues, forest-green calyxes, and a generous frosting of amber-tipped trichomes reflecting its OG and God Bud heritage. The myrcene-forward terpene profile drives its pronounced sedative and body-relaxing effects, making this an ideal nightcap strain for those seeking deep physical relief and restful sleep.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 5,
+      "get_social": 2,
+      "pain_body": 6,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw608328": {
+    "lineage": "Trainwreck x Pebbles (likely Fruity Pebbles OG or similar Pebbles phenotype); exact breeder attribution for 'Pebble Wreck' is not widely documented, but the cross draws from Trainwreck (Mexican Sativa x Thai Sativa x Afghani Indica) and a fruity hybrid lineage",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, mild pain management, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety at higher doses, lightheadedness; not ideal for those sensitive to Sativa-leaning effects",
+    "aroma": "A bright, citrus-forward burst greets the nose first — zesty lemon and tangy sour cherry layered over a sweet, fruity base reminiscent of berry candy. Limonene drives a clean, almost effervescent quality that lingers with a slightly fuel-kissed, herbal undertone on the exhale.",
+    "misc": "Pebble Wreck is a hybrid leaning on the uplifting, cerebral energy of Trainwreck balanced with the sweet, dessert-like profile of its Pebbles parentage, landing at a solid 21.7% THC — well-suited for experienced to intermediate consumers. Buds typically display a dense, resinous structure with hues of green and purple, coated in trichomes. Best enjoyed during daytime or early evening when the mood-lifting, creative energy can be appreciated without cutting into sleep.",
+    "mood_ratings": {
+      "wind_down": 2,
+      "deep_sleep": 1,
+      "anxiety_relief": 3,
+      "lift_up": 8,
+      "get_creative": 4,
+      "get_social": 7,
+      "pain_body": 2,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
+  },
+  "sw608314": {
+    "lineage": "Alien Cookies x Cap Cut (Alien Labs x Capulator collaboration); Alien Cookies is itself a cross of Alien Dawg x Girl Scout Cookies",
+    "therapeutic": "Stress relief, anxiety reduction, appetite stimulation, mild pain relief, mood elevation, fatigue",
+    "negative": "Dry mouth, dry eyes, possible paranoia at high doses, overconsumption risk due to high THC concentrate potency (76.5%), not recommended for novice users",
+    "aroma": "Cap Junky delivers a complex, fruit-forward bouquet of ripe apricot and green apple layered over a cool menthol breeze, underscored by earthy myrcene depth and a bright citrus zing from limonene. The nose is simultaneously sweet, herbal, and refreshing — almost like biting into a chilled stone fruit on a cool morning.",
+    "misc": "Cap Junky was developed through a collaboration between Alien Labs and Capulator (breeder of MAC/Miracle Alien Cookies fame), making it a highly sought-after and pedigree-rich hybrid that gained significant buzz in the craft cannabis community. As a concentrate at 76.5% THC, this Stargaze jar is best suited for experienced consumers using a dab rig or vaporizer; small, controlled doses are strongly advised. The strain is best enjoyed in social or creative settings during afternoon to early evening hours, given its giggly, uplifting, and appetite-stimulating effects profile.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 3,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
