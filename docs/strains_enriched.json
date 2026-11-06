@@ -3247,5 +3247,59 @@
       "just_happy": 5,
       "aphrodisiac": 5
     }
+  },
+  "sw611565": {
+    "lineage": "Wedding Cake (Triangle Kush x Animal Mints) x Cheese (Skunk #1 phenotype, UK Cheese lineage); exact breeder of this specific expression attributed to Unbound",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, creative blocks, fatigue, mild pain management",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, slight dizziness due to terpinolene content in sensitive users",
+    "aroma": "A rich, bakery-meets-funk bouquet opens with tangy fermented cheese and sweet vanilla cream, underscored by a bright, almost piney-floral lift from the dominant terpinolene. Earthy base notes round out the profile, giving it a grounded, dessert-pastry quality with an unexpected fresh and slightly herbaceous finish.",
+    "misc": "Wedding Cheesecake is a dessert hybrid that leans into an atypical terpinolene-forward expression, making it notably more energizing and cerebral than the sedating Wedding Cake strains most consumers expect. At 18.7% THC, this is a moderate-to-mid-strength offering suitable for daytime or early evening use, ideal for creative tasks or social settings. The terpinolene-caryophyllene-guaiol combination provides a balanced mind-body effect — caryophyllene adding anti-inflammatory and calming properties while guaiol contributes subtle floral, anti-anxiety nuance.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 5,
+      "get_social": 4,
+      "pain_body": 7,
+      "just_happy": 4,
+      "aphrodisiac": 4
+    }
+  },
+  "sw611580": {
+    "lineage": "Unknown Indica x Unknown Indica — exact parentage unconfirmed; speculated to descend from Watermelon Tourmaline or OG Kush-related genetics; bred by an undisclosed breeder, popularized under the names 'Watermelon Kush' and 'Watermelon OG'",
+    "therapeutic": "Insomnia, chronic pain, stress relief, anxiety reduction, appetite stimulation, muscle tension, nausea",
+    "negative": "Dry mouth, dry eyes, dizziness at high doses, strong sedation and couch-lock, paranoia possible in THC-sensitive users, overconsumption risk due to high distillate THC (83.2%)",
+    "aroma": "A lush, sun-warmed sweetness leads the nose with ripe watermelon and tropical fruit, underpinned by earthy herbal depth and a cool hint of mint. Caryophyllene adds a subtle spicy backbone that keeps the sweetness grounded and complex.",
+    "misc": "Watermelon Kush is an indica-leaning hybrid best suited for evening or nighttime use given its heavily sedating and appetite-stimulating profile. At 83.2% THC in distillate form, this product is significantly more potent than flower, and new or low-tolerance consumers should start with one to two-second puffs and wait several minutes before redosing. The Myrcene-dominant terpene blend amplifies the couch-lock and sleepy effects, making this an excellent choice for winding down after a long day or managing sleep difficulties.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw611594": {
+    "lineage": "Strawberry Cough x Haze (likely Original Haze or Super Silver Haze parentage); exact breeder attribution varies, but versions have been developed by breeders including Dutch Passion and similar European seed companies",
+    "therapeutic": "Depression, fatigue, stress, social anxiety, mild pain, lack of focus, mood disorders",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at high doses, dizziness, headache with overconsumption; caution advised for THC-sensitive users given 83% distillate potency",
+    "aroma": "A bright, sun-ripened strawberry sweetness leads the nose, layered with earthy herbal undertones and a faintly spicy, woodsy bite characteristic of classic Haze genetics. The ocimene adds a subtle floral and tropical lift that keeps the profile fresh and lively.",
+    "misc": "Strawberry Haze is a sativa-dominant hybrid prized for its energizing, cerebral effects and is best suited for daytime or early afternoon use. At 83% THC in distillate form, this product is significantly more potent than flower, so new users should dose conservatively — one to two seconds of draw time is recommended to start. The terpene combination of myrcene, pinene, and ocimene contributes to its uplifting, focus-enhancing character while also providing mild anti-inflammatory and mood-elevating synergy.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 3,
+      "lift_up": 4,
+      "get_creative": 7,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 2
+    }
   }
 }
