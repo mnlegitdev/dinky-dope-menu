@@ -3535,5 +3535,41 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw620303": {
+    "lineage": "Granddaddy Purple x Sour Diesel (breeder unconfirmed; likely developed by independent cultivators building on Ken Estes' GDP and East Coast Sour Diesel genetics)",
+    "therapeutic": "Stress relief, mild pain management, mood elevation, appetite stimulation, anxiety reduction, mild insomnia (early onset)",
+    "negative": "Dry mouth, dry eyes, possible dizziness at high doses, mild paranoia in THC-sensitive users, couch-lock with overconsumption",
+    "aroma": "A rich, layered bouquet of sweet concord grape and ripe red berries rises upfront, underpinned by a sharp, fuel-driven diesel bite and earthy, dank herbal notes with a subtle peppery spice finish. The live rosin format preserves these terpenes in full fidelity, making the aromatic experience noticeably more complex and true-to-flower than conventional distillate vapes.",
+    "misc": "Daily Grape is a 60/40 indica-leaning hybrid sitting at a robust 75.8% THC in this live rosin expression, which is notably higher than the strain's typical flower range of 18-22% THC. The terpene trio of Pinene, Limonene, and Caryophyllene contributes to its balanced head-and-body effect profile — Limonene driving the euphoric lift, Caryophyllene adding anti-inflammatory and relaxing depth, and Pinene offering mild mental clarity to offset heavy sedation. Best suited for late afternoon or evening use; ideal for experienced consumers seeking flavorful relaxation without full sedation, and caution is advised for low-tolerance users given the elevated THC concentration in this live rosin vape format.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 8,
+      "get_social": 6,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
+  },
+  "sw620476": {
+    "lineage": "Exact genetics unknown; Trailside Sunset is a proprietary hybrid cultivar developed and selected by Trailhead Cannabis for the Minnesota medical/adult-use market. Likely bred from classic balanced hybrid parentage, possibly involving sunset or sunset-themed lineages such as Sunset Sherbet crosses, though no confirmed public genetics are available.",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, mild depression, social anxiety",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia at higher doses, lightheadedness due to elevated THC concentration (74.9% in live rosin form)",
+    "aroma": "As a live rosin product, Trailside Sunset likely expresses a rich, full-spectrum aromatic profile with fresh, floral, and fruity top notes — think citrus zest and ripe berries — underpinned by earthy, creamy undertones characteristic of well-preserved trichome-derived concentrates. The solventless extraction method preserves the plant's natural terpene bouquet, delivering a clean, robust, and nuanced scent experience.",
+    "misc": "Trailside Sunset was among Trailhead's inaugural cultivars brought from their flower rooms into the Minnesota cannabis market, signaling it as a cornerstone strain for the brand. At 74.9% THC in live rosin form, this is a potent concentrate best suited for experienced consumers; novice users should start with very small puffs and wait to assess effects. Best used in the evening or late afternoon given its relaxing and euphoric profile, making it ideal for unwinding, social settings, or creative activities.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
