@@ -3578,5 +3578,95 @@
     "negative": "Note: A THC value of 323.5% is physically impossible and likely a data entry error — the actual potency is unknown from this listing. Consumers should verify dosage with the retailer before consuming. Potential side effects include anxiety, paranoia, dry mouth, dizziness, impaired coordination, and overconsumption risk if dosing is unclear.",
     "aroma": "As a chocolate edible, expect warm notes of ripe banana, toasted nuts, and sweet cocoa with a soft vanilla undertone. The banana bread inspiration lends a baked, caramelized sugar quality reminiscent of fresh pastry.",
     "misc": "This is a chocolate bar edible by Legacy Cannabis with a banana bread flavor profile. Due to the clearly erroneous THC percentage listed (323.5%), consumers are strongly advised to confirm actual milligrams of THC per serving and per package with the dispensary before purchasing or consuming. Standard edible dosing guidance applies: start low (2.5–5mg THC), wait 90–120 minutes before redosing to avoid overconsumption."
+  },
+  "sw293507": {
+    "lineage": "Grape Pie x Wedding Crasher — Grape Pie is a cross of Cherry Pie x Grape Stomper (Cannarado Genetics), while Wedding Crasher is a cross of Wedding Cake x Purple Punch (Symbiotic Genetics). Grape Cream Cake is associated with Cannarado Genetics and their collaborators in the craft market.",
+    "therapeutic": "Insomnia, chronic pain, anxiety, stress relief, muscle tension, appetite stimulation, mild depression",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, dizziness in low-tolerance users, may cause excessive sedation if consumed in large quantities — use caution before any activity requiring alertness",
+    "aroma": "Rich and dessert-forward, the nose opens with lush purple grape and ripe berry sweetness, backed by a creamy vanilla pastry undertone reminiscent of grape candy and baked goods. Subtle earthy and floral notes from linalool round out the bouquet, giving it a soft, almost perfumed finish.",
+    "misc": "Grape Cream Cake is a craft-tier indica-leaning hybrid typically testing in the 22–26% THC range, making Campfire Cannabis's 23.2% a strong but representative expression. Buds are commonly dense and chunky with deep purple and forest green hues, blanketed in frosty trichomes and vivid orange pistils. Best suited for evening or nighttime use given its sedating and sleepy profile — ideal for winding down after a long day, pairing well with relaxing activities or pre-sleep routines.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 4
+    }
+  },
+  "sw507459": {
+    "lineage": "The Soap (Animal Mints x Kush Mints) x Project 4516 (Grape Pie x Sherblato); The Soap was popularized by Archive Seed Bank, with Animal Mints and Kush Mints both carrying Forum Cut GSC and OG Kush heritage, while Project 4516 brings Cherry Pie, GDP, Gelato, and Sunset Sherbet into the cross",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia, muscle tension, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible couch-lock at higher doses, mild dizziness or paranoia in THC-sensitive users, sedation may impair productivity",
+    "aroma": "A luxurious and complex bouquet opens with floral lavender and bright citrus zest, underscored by creamy mint and doughy sweetness. Deeper notes of fuel, fresh pine, and earthy kush linger in the background, giving it a spa-like yet grounded character that lives up to its 'Bubble Bath' name.",
+    "misc": "PR Bubble Bath is crafted by Campfire Cannabis and leans indica-dominant despite its hybrid classification, making it best suited for evening or late-afternoon use when unwinding is the goal. The 20.2% THC alongside linalool as a primary terpene reinforces its calming, sedative-leaning profile — linalool is well-studied for its anxiolytic properties and complements the euphoric lift from limonene. Buds are typically dense and frosty with deep green hues, purple undertones inherited from the Grape Pie and GDP lineage, and a generous trichome coating that reflects its potent, resinous genetics.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw629317": {
+    "lineage": "Fro'Do x Alaskan Yeti, then backcrossed with LilMissHs (dizgo)",
+    "therapeutic": "Stress relief, mild anxiety, creative blocks, fatigue, mild pain, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia at higher doses, slight dizziness in low-tolerance users",
+    "aroma": "A complex, resinous bouquet opens with tropical fruit and citrus zest layered over a deep earthy pine foundation, with subtle herbal and spice undertones that linger on the exhale. The nose is lush and aromatic, reminiscent of a sun-warmed rainforest floor kissed with ripe mango and fresh-cut herbs.",
+    "misc": "Frodo Squeeze is a dizgo original, blending the fruity, exotic genetics of Fro'Do and the icy, potent Alaskan Yeti with the balancing influence of LilMissHs to create a sativa-leaning hybrid that sits at a approachable 18.2% THC, making it well-suited for intermediate consumers. The myrcene-forward terpene profile anchors the experience with relaxation while limonene and terpinene lift the mood and spark creativity, delivering a calm but mentally engaged high. Best enjoyed during afternoon or early evening sessions when creative focus is desired without full sedation, and ideal for social settings, artistic pursuits, or unwinding after a moderate day.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 3,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
+  },
+  "sw628525": {
+    "lineage": "Peanut Butter Breath x Strawberry Pinecone (Campfire Cannabis selection); Peanut Butter Breath is itself a cross of Do-Si-Dos x Mendo Breath F2 popularized by ThugPug Genetics, while Strawberry Pinecone is a Pacific Northwest-rooted cultivar with Strawberry Diesel and conifer-forward heritage",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, anxiety, stress relief, appetite stimulation, mild depression",
+    "negative": "Dry mouth, dry eyes, heavy sedation, couch-lock at higher doses, dizziness in low-tolerance users, not recommended for daytime use or tasks requiring focus",
+    "aroma": "God's Breath opens with a rich, nutty peanut butter warmth layered over sweet grape and forest pine, giving way to a damp earthy musk with subtle herbal and spiced wood undertones that linger pleasantly on the exhale.",
+    "misc": "This Campfire Cannabis pre-roll offering sits at a potent 23.7% THC, making it best suited for experienced consumers or those with moderate-to-high tolerance. The buds of the source flower typically present dense, indica-structured nugs with deep green hues, occasional purple tints, and a heavy resin coating reflective of its Peanut Butter Breath parentage. Strongly recommended as an evening or nighttime strain given its sleepy, deeply relaxing effect profile driven by a myrcene-dominant terpene stack complemented by grounding caryophyllene and refreshing pinene.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 6,
+      "get_social": 2,
+      "pain_body": 6,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
+  },
+  "sw629341": {
+    "lineage": "Fro'Do x LilMissHS (dizgo); Fro'Do is believed to be a cross of Frosted Flakes and Do-Si-Dos, while LilMissHS (Little Miss Headspace) is a sativa-leaning hybrid; exact upstream breeders for the full cross are proprietary to dizgo's breeding program",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, creative blocks, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential racing thoughts in anxiety-prone users due to sativa dominance",
+    "aroma": "Zesty Parm bursts open with a bright, citrus-forward nose reminiscent of lemon zest and fresh lime rind, underscored by a piney herbal backbone and a subtle peppery spice that lingers on the exhale. Earthy, woody undertones round out the profile, with a soft floral lavender whisper courtesy of the linalool that keeps the overall scent approachable and complex.",
+    "misc": "Zesty Parm is a dizgo house hybrid leaning sativa, sitting at a solid 20.2% THC — well-suited for intermediate to experienced consumers looking for a daytime or early-afternoon session. The terpene stack of limonene, myrcene, and caryophyllene works synergistically to deliver uplifting, creative energy without the edge of a pure sativa, making it ideal for artistic projects, social settings, or outdoor activities. As a pre-roll offering from dizgo, it reflects the brand's focus on flavourful, effect-driven genetics with a clean burn and a zesty, spice-kissed finish.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
